@@ -1,0 +1,5082 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "MOUSE_X",
+			"GroupId": "",
+			"Name": "Mouse X"
+		},
+		{
+			"Id": "MOUSE_Y",
+			"GroupId": "",
+			"Name": "Mouse Y"
+		},
+		{
+			"Id": "STARS_TWINKLING",
+			"GroupId": "",
+			"Name": "Stars Twinkling"
+		},
+		{
+			"Id": "STARS_FORM",
+			"GroupId": "",
+			"Name": "Stars Form"
+		},
+		{
+			"Id": "SHOOTING_STAR_ANIMATION",
+			"GroupId": "",
+			"Name": "Shooting Star"
+		},
+		{
+			"Id": "STAR_SMALL_1_X_SHAKE",
+			"GroupId": "STAR_SMALL_1",
+			"Name": "Small Star 1 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_1_Y_SHAKE",
+			"GroupId": "STAR_SMALL_1",
+			"Name": "Small Star 1 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_1_ROTATION",
+			"GroupId": "STAR_SMALL_1",
+			"Name": "Small Star 1 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_2_X_SHAKE",
+			"GroupId": "STAR_SMALL_2",
+			"Name": "Small Star 2 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_2_Y_SHAKE",
+			"GroupId": "STAR_SMALL_2",
+			"Name": "Small Star 2 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_2_ROTATION",
+			"GroupId": "STAR_SMALL_2",
+			"Name": "Small Star 2 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_3_X_SHAKE",
+			"GroupId": "STAR_SMALL_3",
+			"Name": "Small Star 3 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_3_Y_SHAKE",
+			"GroupId": "STAR_SMALL_3",
+			"Name": "Small Star 3 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_3_ROTATION",
+			"GroupId": "STAR_SMALL_3",
+			"Name": "Small Star 3 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_4_X_SHAKE",
+			"GroupId": "STAR_SMALL_4",
+			"Name": "Small Star 4 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_4_Y_SHAKE",
+			"GroupId": "STAR_SMALL_4",
+			"Name": "Small Star 4 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_4_ROTATION",
+			"GroupId": "STAR_SMALL_4",
+			"Name": "Small Star 4 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_5_X_SHAKE",
+			"GroupId": "STAR_SMALL_5",
+			"Name": "Small Star 5 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_5_Y_SHAKE",
+			"GroupId": "STAR_SMALL_5",
+			"Name": "Small Star 5 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_5_ROTATION",
+			"GroupId": "STAR_SMALL_5",
+			"Name": "Small Star 5 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_6_X_SHAKE",
+			"GroupId": "STAR_SMALL_6",
+			"Name": "Small Star 6 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_6_Y_SHAKE",
+			"GroupId": "STAR_SMALL_6",
+			"Name": "Small Star 6 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_6_ROTATION",
+			"GroupId": "STAR_SMALL_6",
+			"Name": "Small Star 6 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_7_X_SHAKE",
+			"GroupId": "STAR_SMALL_7",
+			"Name": "Small Star 7 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_7_Y_SHAKE",
+			"GroupId": "STAR_SMALL_7",
+			"Name": "Small Star 7 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_7_ROTATION",
+			"GroupId": "STAR_SMALL_7",
+			"Name": "Small Star 7 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_8_X_SHAKE",
+			"GroupId": "STAR_SMALL_8",
+			"Name": "Small Star 8 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_8_Y_SHAKE",
+			"GroupId": "STAR_SMALL_8",
+			"Name": "Small Star 8 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_8_ROTATION",
+			"GroupId": "STAR_SMALL_8",
+			"Name": "Small Star 8 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_9_X_SHAKE",
+			"GroupId": "STAR_SMALL_9",
+			"Name": "Small Star 9 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_9_Y_SHAKE",
+			"GroupId": "STAR_SMALL_9",
+			"Name": "Small Star 9 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_9_ROTATION",
+			"GroupId": "STAR_SMALL_9",
+			"Name": "Small Star 9 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_10_X_SHAKE",
+			"GroupId": "STAR_SMALL_10",
+			"Name": "Small Star 10 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_10_Y_SHAKE",
+			"GroupId": "STAR_SMALL_10",
+			"Name": "Small Star 10 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_10_ROTATION",
+			"GroupId": "STAR_SMALL_10",
+			"Name": "Small Star 10 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_11_X_SHAKE",
+			"GroupId": "STAR_SMALL_11",
+			"Name": "Small Star 11 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_11_Y_SHAKE",
+			"GroupId": "STAR_SMALL_11",
+			"Name": "Small Star 11 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_11_ROTATION",
+			"GroupId": "STAR_SMALL_11",
+			"Name": "Small Star 11 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_12_X_SHAKE",
+			"GroupId": "STAR_SMALL_12",
+			"Name": "Small Star 12 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_12_Y_SHAKE",
+			"GroupId": "STAR_SMALL_12",
+			"Name": "Small Star 12 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_12_ROTATION",
+			"GroupId": "STAR_SMALL_12",
+			"Name": "Small Star 12 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_13_X_SHAKE",
+			"GroupId": "STAR_SMALL_13",
+			"Name": "Small Star 13 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_13_Y_SHAKE",
+			"GroupId": "STAR_SMALL_13",
+			"Name": "Small Star 13 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_13_ROTATION",
+			"GroupId": "STAR_SMALL_13",
+			"Name": "Small Star 13 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_14_X_SHAKE",
+			"GroupId": "STAR_SMALL_14",
+			"Name": "Small Star 14 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_14_Y_SHAKE",
+			"GroupId": "STAR_SMALL_14",
+			"Name": "Small Star 14 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_14_ROTATION",
+			"GroupId": "STAR_SMALL_14",
+			"Name": "Small Star 14 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_15_X_SHAKE",
+			"GroupId": "STAR_SMALL_15",
+			"Name": "Small Star 15 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_15_Y_SHAKE",
+			"GroupId": "STAR_SMALL_15",
+			"Name": "Small Star 15 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_15_ROTATION",
+			"GroupId": "STAR_SMALL_15",
+			"Name": "Small Star 15 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_16_X_SHAKE",
+			"GroupId": "STAR_SMALL_16",
+			"Name": "Small Star 16 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_16_Y_SHAKE",
+			"GroupId": "STAR_SMALL_16",
+			"Name": "Small Star 16 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_16_ROTATION",
+			"GroupId": "STAR_SMALL_16",
+			"Name": "Small Star 16 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_17_X_SHAKE",
+			"GroupId": "STAR_SMALL_17",
+			"Name": "Small Star 17 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_17_Y_SHAKE",
+			"GroupId": "STAR_SMALL_17",
+			"Name": "Small Star 17 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_17_ROTATION",
+			"GroupId": "STAR_SMALL_17",
+			"Name": "Small Star 17 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_18_X_SHAKE",
+			"GroupId": "STAR_SMALL_18",
+			"Name": "Small Star 18 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_18_Y_SHAKE",
+			"GroupId": "STAR_SMALL_18",
+			"Name": "Small Star 18 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_18_ROTATION",
+			"GroupId": "STAR_SMALL_18",
+			"Name": "Small Star 18 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_19_X_SHAKE",
+			"GroupId": "STAR_SMALL_19",
+			"Name": "Small Star 19 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_19_Y_SHAKE",
+			"GroupId": "STAR_SMALL_19",
+			"Name": "Small Star 19 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_19_ROTATION",
+			"GroupId": "STAR_SMALL_19",
+			"Name": "Small Star 19 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_20_X_SHAKE",
+			"GroupId": "STAR_SMALL_20",
+			"Name": "Small Star 20 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_20_Y_SHAKE",
+			"GroupId": "STAR_SMALL_20",
+			"Name": "Small Star 20 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_20_ROTATION",
+			"GroupId": "STAR_SMALL_20",
+			"Name": "Small Star 20 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_21_X_SHAKE",
+			"GroupId": "STAR_SMALL_21",
+			"Name": "Small Star 21 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_21_Y_SHAKE",
+			"GroupId": "STAR_SMALL_21",
+			"Name": "Small Star 21 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_21_ROTATION",
+			"GroupId": "STAR_SMALL_21",
+			"Name": "Small Star 21 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_22_X_SHAKE",
+			"GroupId": "STAR_SMALL_22",
+			"Name": "Small Star 22 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_22_Y_SHAKE",
+			"GroupId": "STAR_SMALL_22",
+			"Name": "Small Star 22 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_22_ROTATION",
+			"GroupId": "STAR_SMALL_22",
+			"Name": "Small Star 22 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_23_X_SHAKE",
+			"GroupId": "STAR_SMALL_23",
+			"Name": "Small Star 23 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_23_Y_SHAKE",
+			"GroupId": "STAR_SMALL_23",
+			"Name": "Small Star 23 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_23_ROTATION",
+			"GroupId": "STAR_SMALL_23",
+			"Name": "Small Star 23 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_24_X_SHAKE",
+			"GroupId": "STAR_SMALL_24",
+			"Name": "Small Star 24 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_24_Y_SHAKE",
+			"GroupId": "STAR_SMALL_24",
+			"Name": "Small Star 24 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_24_ROTATION",
+			"GroupId": "STAR_SMALL_24",
+			"Name": "Small Star 24 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_25_X_SHAKE",
+			"GroupId": "STAR_SMALL_25",
+			"Name": "Small Star 25 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_25_Y_SHAKE",
+			"GroupId": "STAR_SMALL_25",
+			"Name": "Small Star 25 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_25_ROTATION",
+			"GroupId": "STAR_SMALL_25",
+			"Name": "Small Star 25 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_26_X_SHAKE",
+			"GroupId": "STAR_SMALL_26",
+			"Name": "Small Star 26 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_26_Y_SHAKE",
+			"GroupId": "STAR_SMALL_26",
+			"Name": "Small Star 26 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_26_ROTATION",
+			"GroupId": "STAR_SMALL_26",
+			"Name": "Small Star 26 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_27_X_SHAKE",
+			"GroupId": "STAR_SMALL_27",
+			"Name": "Small Star 27 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_27_Y_SHAKE",
+			"GroupId": "STAR_SMALL_27",
+			"Name": "Small Star 27 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_27_ROTATION",
+			"GroupId": "STAR_SMALL_27",
+			"Name": "Small Star 27 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_28_X_SHAKE",
+			"GroupId": "STAR_SMALL_28",
+			"Name": "Small Star 28 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_28_Y_SHAKE",
+			"GroupId": "STAR_SMALL_28",
+			"Name": "Small Star 28 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_28_ROTATION",
+			"GroupId": "STAR_SMALL_28",
+			"Name": "Small Star 28 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_29_X_SHAKE",
+			"GroupId": "STAR_SMALL_29",
+			"Name": "Small Star 29 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_29_Y_SHAKE",
+			"GroupId": "STAR_SMALL_29",
+			"Name": "Small Star 29 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_29_ROTATION",
+			"GroupId": "STAR_SMALL_29",
+			"Name": "Small Star 29 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_30_X_SHAKE",
+			"GroupId": "STAR_SMALL_30",
+			"Name": "Small Star 30 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_30_Y_SHAKE",
+			"GroupId": "STAR_SMALL_30",
+			"Name": "Small Star 30 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_30_ROTATION",
+			"GroupId": "STAR_SMALL_30",
+			"Name": "Small Star 30 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_31_X_SHAKE",
+			"GroupId": "STAR_SMALL_31",
+			"Name": "Small Star 31 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_31_Y_SHAKE",
+			"GroupId": "STAR_SMALL_31",
+			"Name": "Small Star 31 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_31_ROTATION",
+			"GroupId": "STAR_SMALL_31",
+			"Name": "Small Star 31 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_32_X_SHAKE",
+			"GroupId": "STAR_SMALL_32",
+			"Name": "Small Star 32 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_32_Y_SHAKE",
+			"GroupId": "STAR_SMALL_32",
+			"Name": "Small Star 32 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_32_ROTATION",
+			"GroupId": "STAR_SMALL_32",
+			"Name": "Small Star 32 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_33_X_SHAKE",
+			"GroupId": "STAR_SMALL_33",
+			"Name": "Small Star 33 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_33_Y_SHAKE",
+			"GroupId": "STAR_SMALL_33",
+			"Name": "Small Star 33 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_33_ROTATION",
+			"GroupId": "STAR_SMALL_33",
+			"Name": "Small Star 33 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_34_X_SHAKE",
+			"GroupId": "STAR_SMALL_34",
+			"Name": "Small Star 34 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_34_Y_SHAKE",
+			"GroupId": "STAR_SMALL_34",
+			"Name": "Small Star 34 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_34_ROTATION",
+			"GroupId": "STAR_SMALL_34",
+			"Name": "Small Star 34 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_35_X_SHAKE",
+			"GroupId": "STAR_SMALL_35",
+			"Name": "Small Star 35 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_35_Y_SHAKE",
+			"GroupId": "STAR_SMALL_35",
+			"Name": "Small Star 35 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_35_ROTATION",
+			"GroupId": "STAR_SMALL_35",
+			"Name": "Small Star 35 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_36_X_SHAKE",
+			"GroupId": "STAR_SMALL_36",
+			"Name": "Small Star 36 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_36_Y_SHAKE",
+			"GroupId": "STAR_SMALL_36",
+			"Name": "Small Star 36 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_36_ROTATION",
+			"GroupId": "STAR_SMALL_36",
+			"Name": "Small Star 36 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_37_X_SHAKE",
+			"GroupId": "STAR_SMALL_37",
+			"Name": "Small Star 37 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_37_Y_SHAKE",
+			"GroupId": "STAR_SMALL_37",
+			"Name": "Small Star 37 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_37_ROTATION",
+			"GroupId": "STAR_SMALL_37",
+			"Name": "Small Star 37 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_38_X_SHAKE",
+			"GroupId": "STAR_SMALL_38",
+			"Name": "Small Star 38 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_38_Y_SHAKE",
+			"GroupId": "STAR_SMALL_38",
+			"Name": "Small Star 38 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_38_ROTATION",
+			"GroupId": "STAR_SMALL_38",
+			"Name": "Small Star 38 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_39_X_SHAKE",
+			"GroupId": "STAR_SMALL_39",
+			"Name": "Small Star 39 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_39_Y_SHAKE",
+			"GroupId": "STAR_SMALL_39",
+			"Name": "Small Star 39 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_39_ROTATION",
+			"GroupId": "STAR_SMALL_39",
+			"Name": "Small Star 39 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_40_X_SHAKE",
+			"GroupId": "STAR_SMALL_40",
+			"Name": "Small Star 40 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_40_Y_SHAKE",
+			"GroupId": "STAR_SMALL_40",
+			"Name": "Small Star 40 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_40_ROTATION",
+			"GroupId": "STAR_SMALL_40",
+			"Name": "Small Star 40 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_41_X_SHAKE",
+			"GroupId": "STAR_SMALL_41",
+			"Name": "Small Star 41 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_41_Y_SHAKE",
+			"GroupId": "STAR_SMALL_41",
+			"Name": "Small Star 41 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_41_ROTATION",
+			"GroupId": "STAR_SMALL_41",
+			"Name": "Small Star 41 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_42_X_SHAKE",
+			"GroupId": "STAR_SMALL_42",
+			"Name": "Small Star 42 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_42_Y_SHAKE",
+			"GroupId": "STAR_SMALL_42",
+			"Name": "Small Star 42 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_42_ROTATION",
+			"GroupId": "STAR_SMALL_42",
+			"Name": "Small Star 42 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_43_X_SHAKE",
+			"GroupId": "STAR_SMALL_43",
+			"Name": "Small Star 43 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_43_Y_SHAKE",
+			"GroupId": "STAR_SMALL_43",
+			"Name": "Small Star 43 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_43_ROTATION",
+			"GroupId": "STAR_SMALL_43",
+			"Name": "Small Star 43 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_44_X_SHAKE",
+			"GroupId": "STAR_SMALL_44",
+			"Name": "Small Star 44 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_44_Y_SHAKE",
+			"GroupId": "STAR_SMALL_44",
+			"Name": "Small Star 44 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_44_ROTATION",
+			"GroupId": "STAR_SMALL_44",
+			"Name": "Small Star 44 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_45_X_SHAKE",
+			"GroupId": "STAR_SMALL_45",
+			"Name": "Small Star 45 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_45_Y_SHAKE",
+			"GroupId": "STAR_SMALL_45",
+			"Name": "Small Star 45 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_45_ROTATION",
+			"GroupId": "STAR_SMALL_45",
+			"Name": "Small Star 45 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_46_X_SHAKE",
+			"GroupId": "STAR_SMALL_46",
+			"Name": "Small Star 46 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_46_Y_SHAKE",
+			"GroupId": "STAR_SMALL_46",
+			"Name": "Small Star 46 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_46_ROTATION",
+			"GroupId": "STAR_SMALL_46",
+			"Name": "Small Star 46 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_47_X_SHAKE",
+			"GroupId": "STAR_SMALL_47",
+			"Name": "Small Star 47 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_47_Y_SHAKE",
+			"GroupId": "STAR_SMALL_47",
+			"Name": "Small Star 47 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_47_ROTATION",
+			"GroupId": "STAR_SMALL_47",
+			"Name": "Small Star 47 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_48_X_SHAKE",
+			"GroupId": "STAR_SMALL_48",
+			"Name": "Small Star 48 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_48_Y_SHAKE",
+			"GroupId": "STAR_SMALL_48",
+			"Name": "Small Star 48 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_48_ROTATION",
+			"GroupId": "STAR_SMALL_48",
+			"Name": "Small Star 48 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_49_X_SHAKE",
+			"GroupId": "STAR_SMALL_49",
+			"Name": "Small Star 49 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_49_Y_SHAKE",
+			"GroupId": "STAR_SMALL_49",
+			"Name": "Small Star 49 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_49_ROTATION",
+			"GroupId": "STAR_SMALL_49",
+			"Name": "Small Star 49 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_50_X_SHAKE",
+			"GroupId": "STAR_SMALL_50",
+			"Name": "Small Star 50 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_50_Y_SHAKE",
+			"GroupId": "STAR_SMALL_50",
+			"Name": "Small Star 50 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_50_ROTATION",
+			"GroupId": "STAR_SMALL_50",
+			"Name": "Small Star 50 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_51_X_SHAKE",
+			"GroupId": "STAR_SMALL_51",
+			"Name": "Small Star 51 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_51_Y_SHAKE",
+			"GroupId": "STAR_SMALL_51",
+			"Name": "Small Star 51 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_51_ROTATION",
+			"GroupId": "STAR_SMALL_51",
+			"Name": "Small Star 51 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_52_X_SHAKE",
+			"GroupId": "STAR_SMALL_52",
+			"Name": "Small Star 52 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_52_Y_SHAKE",
+			"GroupId": "STAR_SMALL_52",
+			"Name": "Small Star 52 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_52_ROTATION",
+			"GroupId": "STAR_SMALL_52",
+			"Name": "Small Star 52 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_53_X_SHAKE",
+			"GroupId": "STAR_SMALL_53",
+			"Name": "Small Star 53 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_53_Y_SHAKE",
+			"GroupId": "STAR_SMALL_53",
+			"Name": "Small Star 53 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_53_ROTATION",
+			"GroupId": "STAR_SMALL_53",
+			"Name": "Small Star 53 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_54_X_SHAKE",
+			"GroupId": "STAR_SMALL_54",
+			"Name": "Small Star 54 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_54_Y_SHAKE",
+			"GroupId": "STAR_SMALL_54",
+			"Name": "Small Star 54 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_54_ROTATION",
+			"GroupId": "STAR_SMALL_54",
+			"Name": "Small Star 54 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_55_X_SHAKE",
+			"GroupId": "STAR_SMALL_55",
+			"Name": "Small Star 55 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_55_Y_SHAKE",
+			"GroupId": "STAR_SMALL_55",
+			"Name": "Small Star 55 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_55_ROTATION",
+			"GroupId": "STAR_SMALL_55",
+			"Name": "Small Star 55 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_56_X_SHAKE",
+			"GroupId": "STAR_SMALL_56",
+			"Name": "Small Star 56 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_56_Y_SHAKE",
+			"GroupId": "STAR_SMALL_56",
+			"Name": "Small Star 56 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_56_ROTATION",
+			"GroupId": "STAR_SMALL_56",
+			"Name": "Small Star 56 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_57_X_SHAKE",
+			"GroupId": "STAR_SMALL_57",
+			"Name": "Small Star 57 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_57_Y_SHAKE",
+			"GroupId": "STAR_SMALL_57",
+			"Name": "Small Star 57 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_57_ROTATION",
+			"GroupId": "STAR_SMALL_57",
+			"Name": "Small Star 57 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_58_X_SHAKE",
+			"GroupId": "STAR_SMALL_58",
+			"Name": "Small Star 58 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_58_Y_SHAKE",
+			"GroupId": "STAR_SMALL_58",
+			"Name": "Small Star 58 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_58_ROTATION",
+			"GroupId": "STAR_SMALL_58",
+			"Name": "Small Star 58 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_59_X_SHAKE",
+			"GroupId": "STAR_SMALL_59",
+			"Name": "Small Star 59 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_59_Y_SHAKE",
+			"GroupId": "STAR_SMALL_59",
+			"Name": "Small Star 59 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_59_ROTATION",
+			"GroupId": "STAR_SMALL_59",
+			"Name": "Small Star 59 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_60_X_SHAKE",
+			"GroupId": "STAR_SMALL_60",
+			"Name": "Small Star 60 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_60_Y_SHAKE",
+			"GroupId": "STAR_SMALL_60",
+			"Name": "Small Star 60 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_60_ROTATION",
+			"GroupId": "STAR_SMALL_60",
+			"Name": "Small Star 60 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_61_X_SHAKE",
+			"GroupId": "STAR_SMALL_61",
+			"Name": "Small Star 61 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_61_Y_SHAKE",
+			"GroupId": "STAR_SMALL_61",
+			"Name": "Small Star 61 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_61_ROTATION",
+			"GroupId": "STAR_SMALL_61",
+			"Name": "Small Star 61 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_62_X_SHAKE",
+			"GroupId": "STAR_SMALL_62",
+			"Name": "Small Star 62 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_62_Y_SHAKE",
+			"GroupId": "STAR_SMALL_62",
+			"Name": "Small Star 62 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_62_ROTATION",
+			"GroupId": "STAR_SMALL_62",
+			"Name": "Small Star 62 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_63_X_SHAKE",
+			"GroupId": "STAR_SMALL_63",
+			"Name": "Small Star 63 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_63_Y_SHAKE",
+			"GroupId": "STAR_SMALL_63",
+			"Name": "Small Star 63 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_63_ROTATION",
+			"GroupId": "STAR_SMALL_63",
+			"Name": "Small Star 63 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_64_X_SHAKE",
+			"GroupId": "STAR_SMALL_64",
+			"Name": "Small Star 64 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_64_Y_SHAKE",
+			"GroupId": "STAR_SMALL_64",
+			"Name": "Small Star 64 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_64_ROTATION",
+			"GroupId": "STAR_SMALL_64",
+			"Name": "Small Star 64 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_65_X_SHAKE",
+			"GroupId": "STAR_SMALL_65",
+			"Name": "Small Star 65 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_65_Y_SHAKE",
+			"GroupId": "STAR_SMALL_65",
+			"Name": "Small Star 65 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_65_ROTATION",
+			"GroupId": "STAR_SMALL_65",
+			"Name": "Small Star 65 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_66_X_SHAKE",
+			"GroupId": "STAR_SMALL_66",
+			"Name": "Small Star 66 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_66_Y_SHAKE",
+			"GroupId": "STAR_SMALL_66",
+			"Name": "Small Star 66 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_66_ROTATION",
+			"GroupId": "STAR_SMALL_66",
+			"Name": "Small Star 66 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_67_X_SHAKE",
+			"GroupId": "STAR_SMALL_67",
+			"Name": "Small Star 67 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_67_Y_SHAKE",
+			"GroupId": "STAR_SMALL_67",
+			"Name": "Small Star 67 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_67_ROTATION",
+			"GroupId": "STAR_SMALL_67",
+			"Name": "Small Star 67 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_68_X_SHAKE",
+			"GroupId": "STAR_SMALL_68",
+			"Name": "Small Star 68 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_68_Y_SHAKE",
+			"GroupId": "STAR_SMALL_68",
+			"Name": "Small Star 68 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_68_ROTATION",
+			"GroupId": "STAR_SMALL_68",
+			"Name": "Small Star 68 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_69_X_SHAKE",
+			"GroupId": "STAR_SMALL_69",
+			"Name": "Small Star 69 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_69_Y_SHAKE",
+			"GroupId": "STAR_SMALL_69",
+			"Name": "Small Star 69 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_69_ROTATION",
+			"GroupId": "STAR_SMALL_69",
+			"Name": "Small Star 69 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_70_X_SHAKE",
+			"GroupId": "STAR_SMALL_70",
+			"Name": "Small Star 70 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_70_Y_SHAKE",
+			"GroupId": "STAR_SMALL_70",
+			"Name": "Small Star 70 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_70_ROTATION",
+			"GroupId": "STAR_SMALL_70",
+			"Name": "Small Star 70 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_71_X_SHAKE",
+			"GroupId": "STAR_SMALL_71",
+			"Name": "Small Star 71 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_71_Y_SHAKE",
+			"GroupId": "STAR_SMALL_71",
+			"Name": "Small Star 71 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_71_ROTATION",
+			"GroupId": "STAR_SMALL_71",
+			"Name": "Small Star 71 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_72_X_SHAKE",
+			"GroupId": "STAR_SMALL_72",
+			"Name": "Small Star 72 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_72_Y_SHAKE",
+			"GroupId": "STAR_SMALL_72",
+			"Name": "Small Star 72 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_72_ROTATION",
+			"GroupId": "STAR_SMALL_72",
+			"Name": "Small Star 72 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_73_X_SHAKE",
+			"GroupId": "STAR_SMALL_73",
+			"Name": "Small Star 73 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_73_Y_SHAKE",
+			"GroupId": "STAR_SMALL_73",
+			"Name": "Small Star 73 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_73_ROTATION",
+			"GroupId": "STAR_SMALL_73",
+			"Name": "Small Star 73 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_74_X_SHAKE",
+			"GroupId": "STAR_SMALL_74",
+			"Name": "Small Star 74 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_74_Y_SHAKE",
+			"GroupId": "STAR_SMALL_74",
+			"Name": "Small Star 74 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_74_ROTATION",
+			"GroupId": "STAR_SMALL_74",
+			"Name": "Small Star 74 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_75_X_SHAKE",
+			"GroupId": "STAR_SMALL_75",
+			"Name": "Small Star 75 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_75_Y_SHAKE",
+			"GroupId": "STAR_SMALL_75",
+			"Name": "Small Star 75 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_75_ROTATION",
+			"GroupId": "STAR_SMALL_75",
+			"Name": "Small Star 75 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_76_X_SHAKE",
+			"GroupId": "STAR_SMALL_76",
+			"Name": "Small Star 76 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_76_Y_SHAKE",
+			"GroupId": "STAR_SMALL_76",
+			"Name": "Small Star 76 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_76_ROTATION",
+			"GroupId": "STAR_SMALL_76",
+			"Name": "Small Star 76 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_77_X_SHAKE",
+			"GroupId": "STAR_SMALL_77",
+			"Name": "Small Star 77 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_77_Y_SHAKE",
+			"GroupId": "STAR_SMALL_77",
+			"Name": "Small Star 77 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_77_ROTATION",
+			"GroupId": "STAR_SMALL_77",
+			"Name": "Small Star 77 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_78_X_SHAKE",
+			"GroupId": "STAR_SMALL_78",
+			"Name": "Small Star 78 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_78_Y_SHAKE",
+			"GroupId": "STAR_SMALL_78",
+			"Name": "Small Star 78 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_78_ROTATION",
+			"GroupId": "STAR_SMALL_78",
+			"Name": "Small Star 78 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_79_X_SHAKE",
+			"GroupId": "STAR_SMALL_79",
+			"Name": "Small Star 79 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_79_Y_SHAKE",
+			"GroupId": "STAR_SMALL_79",
+			"Name": "Small Star 79 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_79_ROTATION",
+			"GroupId": "STAR_SMALL_79",
+			"Name": "Small Star 79 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_80_X_SHAKE",
+			"GroupId": "STAR_SMALL_80",
+			"Name": "Small Star 80 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_80_Y_SHAKE",
+			"GroupId": "STAR_SMALL_80",
+			"Name": "Small Star 80 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_80_ROTATION",
+			"GroupId": "STAR_SMALL_80",
+			"Name": "Small Star 80 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_81_X_SHAKE",
+			"GroupId": "STAR_SMALL_81",
+			"Name": "Small Star 81 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_81_Y_SHAKE",
+			"GroupId": "STAR_SMALL_81",
+			"Name": "Small Star 81 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_81_ROTATION",
+			"GroupId": "STAR_SMALL_81",
+			"Name": "Small Star 81 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_82_X_SHAKE",
+			"GroupId": "STAR_SMALL_82",
+			"Name": "Small Star 82 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_82_Y_SHAKE",
+			"GroupId": "STAR_SMALL_82",
+			"Name": "Small Star 82 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_82_ROTATION",
+			"GroupId": "STAR_SMALL_82",
+			"Name": "Small Star 82 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_83_X_SHAKE",
+			"GroupId": "STAR_SMALL_83",
+			"Name": "Small Star 83 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_83_Y_SHAKE",
+			"GroupId": "STAR_SMALL_83",
+			"Name": "Small Star 83 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_83_ROTATION",
+			"GroupId": "STAR_SMALL_83",
+			"Name": "Small Star 83 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_84_X_SHAKE",
+			"GroupId": "STAR_SMALL_84",
+			"Name": "Small Star 84 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_84_Y_SHAKE",
+			"GroupId": "STAR_SMALL_84",
+			"Name": "Small Star 84 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_84_ROTATION",
+			"GroupId": "STAR_SMALL_84",
+			"Name": "Small Star 84 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_85_X_SHAKE",
+			"GroupId": "STAR_SMALL_85",
+			"Name": "Small Star 85 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_85_Y_SHAKE",
+			"GroupId": "STAR_SMALL_85",
+			"Name": "Small Star 85 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_85_ROTATION",
+			"GroupId": "STAR_SMALL_85",
+			"Name": "Small Star 85 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_86_X_SHAKE",
+			"GroupId": "STAR_SMALL_86",
+			"Name": "Small Star 86 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_86_Y_SHAKE",
+			"GroupId": "STAR_SMALL_86",
+			"Name": "Small Star 86 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_86_ROTATION",
+			"GroupId": "STAR_SMALL_86",
+			"Name": "Small Star 86 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_87_X_SHAKE",
+			"GroupId": "STAR_SMALL_87",
+			"Name": "Small Star 87 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_87_Y_SHAKE",
+			"GroupId": "STAR_SMALL_87",
+			"Name": "Small Star 87 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_87_ROTATION",
+			"GroupId": "STAR_SMALL_87",
+			"Name": "Small Star 87 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_88_X_SHAKE",
+			"GroupId": "STAR_SMALL_88",
+			"Name": "Small Star 88 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_88_Y_SHAKE",
+			"GroupId": "STAR_SMALL_88",
+			"Name": "Small Star 88 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_88_ROTATION",
+			"GroupId": "STAR_SMALL_88",
+			"Name": "Small Star 88 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_89_X_SHAKE",
+			"GroupId": "STAR_SMALL_89",
+			"Name": "Small Star 89 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_89_Y_SHAKE",
+			"GroupId": "STAR_SMALL_89",
+			"Name": "Small Star 89 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_89_ROTATION",
+			"GroupId": "STAR_SMALL_89",
+			"Name": "Small Star 89 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_90_X_SHAKE",
+			"GroupId": "STAR_SMALL_90",
+			"Name": "Small Star 90 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_90_Y_SHAKE",
+			"GroupId": "STAR_SMALL_90",
+			"Name": "Small Star 90 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_90_ROTATION",
+			"GroupId": "STAR_SMALL_90",
+			"Name": "Small Star 90 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_91_X_SHAKE",
+			"GroupId": "STAR_SMALL_91",
+			"Name": "Small Star 91 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_91_Y_SHAKE",
+			"GroupId": "STAR_SMALL_91",
+			"Name": "Small Star 91 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_91_ROTATION",
+			"GroupId": "STAR_SMALL_91",
+			"Name": "Small Star 91 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_92_X_SHAKE",
+			"GroupId": "STAR_SMALL_92",
+			"Name": "Small Star 92 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_92_Y_SHAKE",
+			"GroupId": "STAR_SMALL_92",
+			"Name": "Small Star 92 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_92_ROTATION",
+			"GroupId": "STAR_SMALL_92",
+			"Name": "Small Star 92 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_93_X_SHAKE",
+			"GroupId": "STAR_SMALL_93",
+			"Name": "Small Star 93 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_93_Y_SHAKE",
+			"GroupId": "STAR_SMALL_93",
+			"Name": "Small Star 93 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_93_ROTATION",
+			"GroupId": "STAR_SMALL_93",
+			"Name": "Small Star 93 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_94_X_SHAKE",
+			"GroupId": "STAR_SMALL_94",
+			"Name": "Small Star 94 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_94_Y_SHAKE",
+			"GroupId": "STAR_SMALL_94",
+			"Name": "Small Star 94 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_94_ROTATION",
+			"GroupId": "STAR_SMALL_94",
+			"Name": "Small Star 94 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_95_X_SHAKE",
+			"GroupId": "STAR_SMALL_95",
+			"Name": "Small Star 95 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_95_Y_SHAKE",
+			"GroupId": "STAR_SMALL_95",
+			"Name": "Small Star 95 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_95_ROTATION",
+			"GroupId": "STAR_SMALL_95",
+			"Name": "Small Star 95 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_96_X_SHAKE",
+			"GroupId": "STAR_SMALL_96",
+			"Name": "Small Star 96 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_96_Y_SHAKE",
+			"GroupId": "STAR_SMALL_96",
+			"Name": "Small Star 96 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_96_ROTATION",
+			"GroupId": "STAR_SMALL_96",
+			"Name": "Small Star 96 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_97_X_SHAKE",
+			"GroupId": "STAR_SMALL_97",
+			"Name": "Small Star 97 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_97_Y_SHAKE",
+			"GroupId": "STAR_SMALL_97",
+			"Name": "Small Star 97 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_97_ROTATION",
+			"GroupId": "STAR_SMALL_97",
+			"Name": "Small Star 97 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_98_X_SHAKE",
+			"GroupId": "STAR_SMALL_98",
+			"Name": "Small Star 98 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_98_Y_SHAKE",
+			"GroupId": "STAR_SMALL_98",
+			"Name": "Small Star 98 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_98_ROTATION",
+			"GroupId": "STAR_SMALL_98",
+			"Name": "Small Star 98 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_99_X_SHAKE",
+			"GroupId": "STAR_SMALL_99",
+			"Name": "Small Star 99 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_99_Y_SHAKE",
+			"GroupId": "STAR_SMALL_99",
+			"Name": "Small Star 99 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_99_ROTATION",
+			"GroupId": "STAR_SMALL_99",
+			"Name": "Small Star 99 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_100_X_SHAKE",
+			"GroupId": "STAR_SMALL_100",
+			"Name": "Small Star 100 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_100_Y_SHAKE",
+			"GroupId": "STAR_SMALL_100",
+			"Name": "Small Star 100 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_100_ROTATION",
+			"GroupId": "STAR_SMALL_100",
+			"Name": "Small Star 100 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_101_X_SHAKE",
+			"GroupId": "STAR_SMALL_101",
+			"Name": "Small Star 101 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_101_Y_SHAKE",
+			"GroupId": "STAR_SMALL_101",
+			"Name": "Small Star 101 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_101_ROTATION",
+			"GroupId": "STAR_SMALL_101",
+			"Name": "Small Star 101 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_102_X_SHAKE",
+			"GroupId": "STAR_SMALL_102",
+			"Name": "Small Star 102 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_102_Y_SHAKE",
+			"GroupId": "STAR_SMALL_102",
+			"Name": "Small Star 102 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_102_ROTATION",
+			"GroupId": "STAR_SMALL_102",
+			"Name": "Small Star 102 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_103_X_SHAKE",
+			"GroupId": "STAR_SMALL_103",
+			"Name": "Small Star 103 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_103_Y_SHAKE",
+			"GroupId": "STAR_SMALL_103",
+			"Name": "Small Star 103 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_103_ROTATION",
+			"GroupId": "STAR_SMALL_103",
+			"Name": "Small Star 103 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_104_X_SHAKE",
+			"GroupId": "STAR_SMALL_104",
+			"Name": "Small Star 104 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_104_Y_SHAKE",
+			"GroupId": "STAR_SMALL_104",
+			"Name": "Small Star 104 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_104_ROTATION",
+			"GroupId": "STAR_SMALL_104",
+			"Name": "Small Star 104 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_105_X_SHAKE",
+			"GroupId": "STAR_SMALL_105",
+			"Name": "Small Star 105 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_105_Y_SHAKE",
+			"GroupId": "STAR_SMALL_105",
+			"Name": "Small Star 105 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_105_ROTATION",
+			"GroupId": "STAR_SMALL_105",
+			"Name": "Small Star 105 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_106_X_SHAKE",
+			"GroupId": "STAR_SMALL_106",
+			"Name": "Small Star 106 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_106_Y_SHAKE",
+			"GroupId": "STAR_SMALL_106",
+			"Name": "Small Star 106 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_106_ROTATION",
+			"GroupId": "STAR_SMALL_106",
+			"Name": "Small Star 106 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_107_X_SHAKE",
+			"GroupId": "STAR_SMALL_107",
+			"Name": "Small Star 107 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_107_Y_SHAKE",
+			"GroupId": "STAR_SMALL_107",
+			"Name": "Small Star 107 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_107_ROTATION",
+			"GroupId": "STAR_SMALL_107",
+			"Name": "Small Star 107 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_108_X_SHAKE",
+			"GroupId": "STAR_SMALL_108",
+			"Name": "Small Star 108 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_108_Y_SHAKE",
+			"GroupId": "STAR_SMALL_108",
+			"Name": "Small Star 108 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_108_ROTATION",
+			"GroupId": "STAR_SMALL_108",
+			"Name": "Small Star 108 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_109_X_SHAKE",
+			"GroupId": "STAR_SMALL_109",
+			"Name": "Small Star 109 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_109_Y_SHAKE",
+			"GroupId": "STAR_SMALL_109",
+			"Name": "Small Star 109 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_109_ROTATION",
+			"GroupId": "STAR_SMALL_109",
+			"Name": "Small Star 109 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_110_X_SHAKE",
+			"GroupId": "STAR_SMALL_110",
+			"Name": "Small Star 110 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_110_Y_SHAKE",
+			"GroupId": "STAR_SMALL_110",
+			"Name": "Small Star 110 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_110_ROTATION",
+			"GroupId": "STAR_SMALL_110",
+			"Name": "Small Star 110 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_111_X_SHAKE",
+			"GroupId": "STAR_SMALL_111",
+			"Name": "Small Star 111 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_111_Y_SHAKE",
+			"GroupId": "STAR_SMALL_111",
+			"Name": "Small Star 111 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_111_ROTATION",
+			"GroupId": "STAR_SMALL_111",
+			"Name": "Small Star 111 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_112_X_SHAKE",
+			"GroupId": "STAR_SMALL_112",
+			"Name": "Small Star 112 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_112_Y_SHAKE",
+			"GroupId": "STAR_SMALL_112",
+			"Name": "Small Star 112 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_112_ROTATION",
+			"GroupId": "STAR_SMALL_112",
+			"Name": "Small Star 112 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_113_X_SHAKE",
+			"GroupId": "STAR_SMALL_113",
+			"Name": "Small Star 113 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_113_Y_SHAKE",
+			"GroupId": "STAR_SMALL_113",
+			"Name": "Small Star 113 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_113_ROTATION",
+			"GroupId": "STAR_SMALL_113",
+			"Name": "Small Star 113 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_114_X_SHAKE",
+			"GroupId": "STAR_SMALL_114",
+			"Name": "Small Star 114 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_114_Y_SHAKE",
+			"GroupId": "STAR_SMALL_114",
+			"Name": "Small Star 114 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_114_ROTATION",
+			"GroupId": "STAR_SMALL_114",
+			"Name": "Small Star 114 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_115_X_SHAKE",
+			"GroupId": "STAR_SMALL_115",
+			"Name": "Small Star 115 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_115_Y_SHAKE",
+			"GroupId": "STAR_SMALL_115",
+			"Name": "Small Star 115 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_115_ROTATION",
+			"GroupId": "STAR_SMALL_115",
+			"Name": "Small Star 115 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_116_X_SHAKE",
+			"GroupId": "STAR_SMALL_116",
+			"Name": "Small Star 116 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_116_Y_SHAKE",
+			"GroupId": "STAR_SMALL_116",
+			"Name": "Small Star 116 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_116_ROTATION",
+			"GroupId": "STAR_SMALL_116",
+			"Name": "Small Star 116 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_117_X_SHAKE",
+			"GroupId": "STAR_SMALL_117",
+			"Name": "Small Star 117 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_117_Y_SHAKE",
+			"GroupId": "STAR_SMALL_117",
+			"Name": "Small Star 117 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_117_ROTATION",
+			"GroupId": "STAR_SMALL_117",
+			"Name": "Small Star 117 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_118_X_SHAKE",
+			"GroupId": "STAR_SMALL_118",
+			"Name": "Small Star 118 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_118_Y_SHAKE",
+			"GroupId": "STAR_SMALL_118",
+			"Name": "Small Star 118 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_118_ROTATION",
+			"GroupId": "STAR_SMALL_118",
+			"Name": "Small Star 118 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_119_X_SHAKE",
+			"GroupId": "STAR_SMALL_119",
+			"Name": "Small Star 119 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_119_Y_SHAKE",
+			"GroupId": "STAR_SMALL_119",
+			"Name": "Small Star 119 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_119_ROTATION",
+			"GroupId": "STAR_SMALL_119",
+			"Name": "Small Star 119 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_120_X_SHAKE",
+			"GroupId": "STAR_SMALL_120",
+			"Name": "Small Star 120 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_120_Y_SHAKE",
+			"GroupId": "STAR_SMALL_120",
+			"Name": "Small Star 120 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_120_ROTATION",
+			"GroupId": "STAR_SMALL_120",
+			"Name": "Small Star 120 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_121_X_SHAKE",
+			"GroupId": "STAR_SMALL_121",
+			"Name": "Small Star 121 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_121_Y_SHAKE",
+			"GroupId": "STAR_SMALL_121",
+			"Name": "Small Star 121 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_121_ROTATION",
+			"GroupId": "STAR_SMALL_121",
+			"Name": "Small Star 121 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_122_X_SHAKE",
+			"GroupId": "STAR_SMALL_122",
+			"Name": "Small Star 122 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_122_Y_SHAKE",
+			"GroupId": "STAR_SMALL_122",
+			"Name": "Small Star 122 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_122_ROTATION",
+			"GroupId": "STAR_SMALL_122",
+			"Name": "Small Star 122 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_123_X_SHAKE",
+			"GroupId": "STAR_SMALL_123",
+			"Name": "Small Star 123 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_123_Y_SHAKE",
+			"GroupId": "STAR_SMALL_123",
+			"Name": "Small Star 123 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_123_ROTATION",
+			"GroupId": "STAR_SMALL_123",
+			"Name": "Small Star 123 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_124_X_SHAKE",
+			"GroupId": "STAR_SMALL_124",
+			"Name": "Small Star 124 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_124_Y_SHAKE",
+			"GroupId": "STAR_SMALL_124",
+			"Name": "Small Star 124 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_124_ROTATION",
+			"GroupId": "STAR_SMALL_124",
+			"Name": "Small Star 124 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_125_X_SHAKE",
+			"GroupId": "STAR_SMALL_125",
+			"Name": "Small Star 125 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_125_Y_SHAKE",
+			"GroupId": "STAR_SMALL_125",
+			"Name": "Small Star 125 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_125_ROTATION",
+			"GroupId": "STAR_SMALL_125",
+			"Name": "Small Star 125 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_126_X_SHAKE",
+			"GroupId": "STAR_SMALL_126",
+			"Name": "Small Star 126 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_126_Y_SHAKE",
+			"GroupId": "STAR_SMALL_126",
+			"Name": "Small Star 126 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_126_ROTATION",
+			"GroupId": "STAR_SMALL_126",
+			"Name": "Small Star 126 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_127_X_SHAKE",
+			"GroupId": "STAR_SMALL_127",
+			"Name": "Small Star 127 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_127_Y_SHAKE",
+			"GroupId": "STAR_SMALL_127",
+			"Name": "Small Star 127 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_127_ROTATION",
+			"GroupId": "STAR_SMALL_127",
+			"Name": "Small Star 127 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_128_X_SHAKE",
+			"GroupId": "STAR_SMALL_128",
+			"Name": "Small Star 128 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_128_Y_SHAKE",
+			"GroupId": "STAR_SMALL_128",
+			"Name": "Small Star 128 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_128_ROTATION",
+			"GroupId": "STAR_SMALL_128",
+			"Name": "Small Star 128 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_129_X_SHAKE",
+			"GroupId": "STAR_SMALL_129",
+			"Name": "Small Star 129 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_129_Y_SHAKE",
+			"GroupId": "STAR_SMALL_129",
+			"Name": "Small Star 129 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_129_ROTATION",
+			"GroupId": "STAR_SMALL_129",
+			"Name": "Small Star 129 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_130_X_SHAKE",
+			"GroupId": "STAR_SMALL_130",
+			"Name": "Small Star 130 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_130_Y_SHAKE",
+			"GroupId": "STAR_SMALL_130",
+			"Name": "Small Star 130 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_130_ROTATION",
+			"GroupId": "STAR_SMALL_130",
+			"Name": "Small Star 130 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_131_X_SHAKE",
+			"GroupId": "STAR_SMALL_131",
+			"Name": "Small Star 131 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_131_Y_SHAKE",
+			"GroupId": "STAR_SMALL_131",
+			"Name": "Small Star 131 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_131_ROTATION",
+			"GroupId": "STAR_SMALL_131",
+			"Name": "Small Star 131 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_132_X_SHAKE",
+			"GroupId": "STAR_SMALL_132",
+			"Name": "Small Star 132 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_132_Y_SHAKE",
+			"GroupId": "STAR_SMALL_132",
+			"Name": "Small Star 132 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_132_ROTATION",
+			"GroupId": "STAR_SMALL_132",
+			"Name": "Small Star 132 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_133_X_SHAKE",
+			"GroupId": "STAR_SMALL_133",
+			"Name": "Small Star 133 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_133_Y_SHAKE",
+			"GroupId": "STAR_SMALL_133",
+			"Name": "Small Star 133 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_133_ROTATION",
+			"GroupId": "STAR_SMALL_133",
+			"Name": "Small Star 133 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_134_X_SHAKE",
+			"GroupId": "STAR_SMALL_134",
+			"Name": "Small Star 134 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_134_Y_SHAKE",
+			"GroupId": "STAR_SMALL_134",
+			"Name": "Small Star 134 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_134_ROTATION",
+			"GroupId": "STAR_SMALL_134",
+			"Name": "Small Star 134 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_135_X_SHAKE",
+			"GroupId": "STAR_SMALL_135",
+			"Name": "Small Star 135 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_135_Y_SHAKE",
+			"GroupId": "STAR_SMALL_135",
+			"Name": "Small Star 135 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_135_ROTATION",
+			"GroupId": "STAR_SMALL_135",
+			"Name": "Small Star 135 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_136_X_SHAKE",
+			"GroupId": "STAR_SMALL_136",
+			"Name": "Small Star 136 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_136_Y_SHAKE",
+			"GroupId": "STAR_SMALL_136",
+			"Name": "Small Star 136 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_136_ROTATION",
+			"GroupId": "STAR_SMALL_136",
+			"Name": "Small Star 136 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_137_X_SHAKE",
+			"GroupId": "STAR_SMALL_137",
+			"Name": "Small Star 137 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_137_Y_SHAKE",
+			"GroupId": "STAR_SMALL_137",
+			"Name": "Small Star 137 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_137_ROTATION",
+			"GroupId": "STAR_SMALL_137",
+			"Name": "Small Star 137 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_138_X_SHAKE",
+			"GroupId": "STAR_SMALL_138",
+			"Name": "Small Star 138 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_138_Y_SHAKE",
+			"GroupId": "STAR_SMALL_138",
+			"Name": "Small Star 138 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_138_ROTATION",
+			"GroupId": "STAR_SMALL_138",
+			"Name": "Small Star 138 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_139_X_SHAKE",
+			"GroupId": "STAR_SMALL_139",
+			"Name": "Small Star 139 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_139_Y_SHAKE",
+			"GroupId": "STAR_SMALL_139",
+			"Name": "Small Star 139 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_139_ROTATION",
+			"GroupId": "STAR_SMALL_139",
+			"Name": "Small Star 139 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_140_X_SHAKE",
+			"GroupId": "STAR_SMALL_140",
+			"Name": "Small Star 140 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_140_Y_SHAKE",
+			"GroupId": "STAR_SMALL_140",
+			"Name": "Small Star 140 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_140_ROTATION",
+			"GroupId": "STAR_SMALL_140",
+			"Name": "Small Star 140 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_141_X_SHAKE",
+			"GroupId": "STAR_SMALL_141",
+			"Name": "Small Star 141 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_141_Y_SHAKE",
+			"GroupId": "STAR_SMALL_141",
+			"Name": "Small Star 141 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_141_ROTATION",
+			"GroupId": "STAR_SMALL_141",
+			"Name": "Small Star 141 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_142_X_SHAKE",
+			"GroupId": "STAR_SMALL_142",
+			"Name": "Small Star 142 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_142_Y_SHAKE",
+			"GroupId": "STAR_SMALL_142",
+			"Name": "Small Star 142 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_142_ROTATION",
+			"GroupId": "STAR_SMALL_142",
+			"Name": "Small Star 142 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_143_X_SHAKE",
+			"GroupId": "STAR_SMALL_143",
+			"Name": "Small Star 143 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_143_Y_SHAKE",
+			"GroupId": "STAR_SMALL_143",
+			"Name": "Small Star 143 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_143_ROTATION",
+			"GroupId": "STAR_SMALL_143",
+			"Name": "Small Star 143 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_144_X_SHAKE",
+			"GroupId": "STAR_SMALL_144",
+			"Name": "Small Star 144 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_144_Y_SHAKE",
+			"GroupId": "STAR_SMALL_144",
+			"Name": "Small Star 144 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_144_ROTATION",
+			"GroupId": "STAR_SMALL_144",
+			"Name": "Small Star 144 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_145_X_SHAKE",
+			"GroupId": "STAR_SMALL_145",
+			"Name": "Small Star 145 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_145_Y_SHAKE",
+			"GroupId": "STAR_SMALL_145",
+			"Name": "Small Star 145 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_145_ROTATION",
+			"GroupId": "STAR_SMALL_145",
+			"Name": "Small Star 145 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_146_X_SHAKE",
+			"GroupId": "STAR_SMALL_146",
+			"Name": "Small Star 146 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_146_Y_SHAKE",
+			"GroupId": "STAR_SMALL_146",
+			"Name": "Small Star 146 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_146_ROTATION",
+			"GroupId": "STAR_SMALL_146",
+			"Name": "Small Star 146 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_147_X_SHAKE",
+			"GroupId": "STAR_SMALL_147",
+			"Name": "Small Star 147 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_147_Y_SHAKE",
+			"GroupId": "STAR_SMALL_147",
+			"Name": "Small Star 147 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_147_ROTATION",
+			"GroupId": "STAR_SMALL_147",
+			"Name": "Small Star 147 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_148_X_SHAKE",
+			"GroupId": "STAR_SMALL_148",
+			"Name": "Small Star 148 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_148_Y_SHAKE",
+			"GroupId": "STAR_SMALL_148",
+			"Name": "Small Star 148 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_148_ROTATION",
+			"GroupId": "STAR_SMALL_148",
+			"Name": "Small Star 148 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_149_X_SHAKE",
+			"GroupId": "STAR_SMALL_149",
+			"Name": "Small Star 149 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_149_Y_SHAKE",
+			"GroupId": "STAR_SMALL_149",
+			"Name": "Small Star 149 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_149_ROTATION",
+			"GroupId": "STAR_SMALL_149",
+			"Name": "Small Star 149 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_150_X_SHAKE",
+			"GroupId": "STAR_SMALL_150",
+			"Name": "Small Star 150 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_150_Y_SHAKE",
+			"GroupId": "STAR_SMALL_150",
+			"Name": "Small Star 150 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_150_ROTATION",
+			"GroupId": "STAR_SMALL_150",
+			"Name": "Small Star 150 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_151_X_SHAKE",
+			"GroupId": "STAR_SMALL_151",
+			"Name": "Small Star 151 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_151_Y_SHAKE",
+			"GroupId": "STAR_SMALL_151",
+			"Name": "Small Star 151 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_151_ROTATION",
+			"GroupId": "STAR_SMALL_151",
+			"Name": "Small Star 151 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_152_X_SHAKE",
+			"GroupId": "STAR_SMALL_152",
+			"Name": "Small Star 152 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_152_Y_SHAKE",
+			"GroupId": "STAR_SMALL_152",
+			"Name": "Small Star 152 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_152_ROTATION",
+			"GroupId": "STAR_SMALL_152",
+			"Name": "Small Star 152 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_153_X_SHAKE",
+			"GroupId": "STAR_SMALL_153",
+			"Name": "Small Star 153 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_153_Y_SHAKE",
+			"GroupId": "STAR_SMALL_153",
+			"Name": "Small Star 153 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_153_ROTATION",
+			"GroupId": "STAR_SMALL_153",
+			"Name": "Small Star 153 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_154_X_SHAKE",
+			"GroupId": "STAR_SMALL_154",
+			"Name": "Small Star 154 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_154_Y_SHAKE",
+			"GroupId": "STAR_SMALL_154",
+			"Name": "Small Star 154 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_154_ROTATION",
+			"GroupId": "STAR_SMALL_154",
+			"Name": "Small Star 154 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_155_X_SHAKE",
+			"GroupId": "STAR_SMALL_155",
+			"Name": "Small Star 155 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_155_Y_SHAKE",
+			"GroupId": "STAR_SMALL_155",
+			"Name": "Small Star 155 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_155_ROTATION",
+			"GroupId": "STAR_SMALL_155",
+			"Name": "Small Star 155 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_156_X_SHAKE",
+			"GroupId": "STAR_SMALL_156",
+			"Name": "Small Star 156 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_156_Y_SHAKE",
+			"GroupId": "STAR_SMALL_156",
+			"Name": "Small Star 156 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_156_ROTATION",
+			"GroupId": "STAR_SMALL_156",
+			"Name": "Small Star 156 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_157_X_SHAKE",
+			"GroupId": "STAR_SMALL_157",
+			"Name": "Small Star 157 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_157_Y_SHAKE",
+			"GroupId": "STAR_SMALL_157",
+			"Name": "Small Star 157 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_157_ROTATION",
+			"GroupId": "STAR_SMALL_157",
+			"Name": "Small Star 157 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_158_X_SHAKE",
+			"GroupId": "STAR_SMALL_158",
+			"Name": "Small Star 158 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_158_Y_SHAKE",
+			"GroupId": "STAR_SMALL_158",
+			"Name": "Small Star 158 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_158_ROTATION",
+			"GroupId": "STAR_SMALL_158",
+			"Name": "Small Star 158 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_159_X_SHAKE",
+			"GroupId": "STAR_SMALL_159",
+			"Name": "Small Star 159 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_159_Y_SHAKE",
+			"GroupId": "STAR_SMALL_159",
+			"Name": "Small Star 159 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_159_ROTATION",
+			"GroupId": "STAR_SMALL_159",
+			"Name": "Small Star 159 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_160_X_SHAKE",
+			"GroupId": "STAR_SMALL_160",
+			"Name": "Small Star 160 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_160_Y_SHAKE",
+			"GroupId": "STAR_SMALL_160",
+			"Name": "Small Star 160 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_160_ROTATION",
+			"GroupId": "STAR_SMALL_160",
+			"Name": "Small Star 160 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_161_X_SHAKE",
+			"GroupId": "STAR_SMALL_161",
+			"Name": "Small Star 161 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_161_Y_SHAKE",
+			"GroupId": "STAR_SMALL_161",
+			"Name": "Small Star 161 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_161_ROTATION",
+			"GroupId": "STAR_SMALL_161",
+			"Name": "Small Star 161 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_162_X_SHAKE",
+			"GroupId": "STAR_SMALL_162",
+			"Name": "Small Star 162 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_162_Y_SHAKE",
+			"GroupId": "STAR_SMALL_162",
+			"Name": "Small Star 162 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_162_ROTATION",
+			"GroupId": "STAR_SMALL_162",
+			"Name": "Small Star 162 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_163_X_SHAKE",
+			"GroupId": "STAR_SMALL_163",
+			"Name": "Small Star 163 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_163_Y_SHAKE",
+			"GroupId": "STAR_SMALL_163",
+			"Name": "Small Star 163 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_163_ROTATION",
+			"GroupId": "STAR_SMALL_163",
+			"Name": "Small Star 163 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_164_X_SHAKE",
+			"GroupId": "STAR_SMALL_164",
+			"Name": "Small Star 164 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_164_Y_SHAKE",
+			"GroupId": "STAR_SMALL_164",
+			"Name": "Small Star 164 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_164_ROTATION",
+			"GroupId": "STAR_SMALL_164",
+			"Name": "Small Star 164 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_165_X_SHAKE",
+			"GroupId": "STAR_SMALL_165",
+			"Name": "Small Star 165 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_165_Y_SHAKE",
+			"GroupId": "STAR_SMALL_165",
+			"Name": "Small Star 165 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_165_ROTATION",
+			"GroupId": "STAR_SMALL_165",
+			"Name": "Small Star 165 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_166_X_SHAKE",
+			"GroupId": "STAR_SMALL_166",
+			"Name": "Small Star 166 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_166_Y_SHAKE",
+			"GroupId": "STAR_SMALL_166",
+			"Name": "Small Star 166 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_166_ROTATION",
+			"GroupId": "STAR_SMALL_166",
+			"Name": "Small Star 166 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_167_X_SHAKE",
+			"GroupId": "STAR_SMALL_167",
+			"Name": "Small Star 167 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_167_Y_SHAKE",
+			"GroupId": "STAR_SMALL_167",
+			"Name": "Small Star 167 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_167_ROTATION",
+			"GroupId": "STAR_SMALL_167",
+			"Name": "Small Star 167 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_168_X_SHAKE",
+			"GroupId": "STAR_SMALL_168",
+			"Name": "Small Star 168 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_168_Y_SHAKE",
+			"GroupId": "STAR_SMALL_168",
+			"Name": "Small Star 168 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_168_ROTATION",
+			"GroupId": "STAR_SMALL_168",
+			"Name": "Small Star 168 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_169_X_SHAKE",
+			"GroupId": "STAR_SMALL_169",
+			"Name": "Small Star 169 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_169_Y_SHAKE",
+			"GroupId": "STAR_SMALL_169",
+			"Name": "Small Star 169 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_169_ROTATION",
+			"GroupId": "STAR_SMALL_169",
+			"Name": "Small Star 169 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_170_X_SHAKE",
+			"GroupId": "STAR_SMALL_170",
+			"Name": "Small Star 170 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_170_Y_SHAKE",
+			"GroupId": "STAR_SMALL_170",
+			"Name": "Small Star 170 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_170_ROTATION",
+			"GroupId": "STAR_SMALL_170",
+			"Name": "Small Star 170 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_171_X_SHAKE",
+			"GroupId": "STAR_SMALL_171",
+			"Name": "Small Star 171 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_171_Y_SHAKE",
+			"GroupId": "STAR_SMALL_171",
+			"Name": "Small Star 171 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_171_ROTATION",
+			"GroupId": "STAR_SMALL_171",
+			"Name": "Small Star 171 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_172_X_SHAKE",
+			"GroupId": "STAR_SMALL_172",
+			"Name": "Small Star 172 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_172_Y_SHAKE",
+			"GroupId": "STAR_SMALL_172",
+			"Name": "Small Star 172 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_172_ROTATION",
+			"GroupId": "STAR_SMALL_172",
+			"Name": "Small Star 172 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_173_X_SHAKE",
+			"GroupId": "STAR_SMALL_173",
+			"Name": "Small Star 173 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_173_Y_SHAKE",
+			"GroupId": "STAR_SMALL_173",
+			"Name": "Small Star 173 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_173_ROTATION",
+			"GroupId": "STAR_SMALL_173",
+			"Name": "Small Star 173 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_174_X_SHAKE",
+			"GroupId": "STAR_SMALL_174",
+			"Name": "Small Star 174 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_174_Y_SHAKE",
+			"GroupId": "STAR_SMALL_174",
+			"Name": "Small Star 174 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_174_ROTATION",
+			"GroupId": "STAR_SMALL_174",
+			"Name": "Small Star 174 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_175_X_SHAKE",
+			"GroupId": "STAR_SMALL_175",
+			"Name": "Small Star 175 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_175_Y_SHAKE",
+			"GroupId": "STAR_SMALL_175",
+			"Name": "Small Star 175 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_175_ROTATION",
+			"GroupId": "STAR_SMALL_175",
+			"Name": "Small Star 175 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_176_X_SHAKE",
+			"GroupId": "STAR_SMALL_176",
+			"Name": "Small Star 176 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_176_Y_SHAKE",
+			"GroupId": "STAR_SMALL_176",
+			"Name": "Small Star 176 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_176_ROTATION",
+			"GroupId": "STAR_SMALL_176",
+			"Name": "Small Star 176 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_177_X_SHAKE",
+			"GroupId": "STAR_SMALL_177",
+			"Name": "Small Star 177 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_177_Y_SHAKE",
+			"GroupId": "STAR_SMALL_177",
+			"Name": "Small Star 177 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_177_ROTATION",
+			"GroupId": "STAR_SMALL_177",
+			"Name": "Small Star 177 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_178_X_SHAKE",
+			"GroupId": "STAR_SMALL_178",
+			"Name": "Small Star 178 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_178_Y_SHAKE",
+			"GroupId": "STAR_SMALL_178",
+			"Name": "Small Star 178 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_178_ROTATION",
+			"GroupId": "STAR_SMALL_178",
+			"Name": "Small Star 178 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_179_X_SHAKE",
+			"GroupId": "STAR_SMALL_179",
+			"Name": "Small Star 179 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_179_Y_SHAKE",
+			"GroupId": "STAR_SMALL_179",
+			"Name": "Small Star 179 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_179_ROTATION",
+			"GroupId": "STAR_SMALL_179",
+			"Name": "Small Star 179 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_180_X_SHAKE",
+			"GroupId": "STAR_SMALL_180",
+			"Name": "Small Star 180 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_180_Y_SHAKE",
+			"GroupId": "STAR_SMALL_180",
+			"Name": "Small Star 180 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_180_ROTATION",
+			"GroupId": "STAR_SMALL_180",
+			"Name": "Small Star 180 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_181_X_SHAKE",
+			"GroupId": "STAR_SMALL_181",
+			"Name": "Small Star 181 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_181_Y_SHAKE",
+			"GroupId": "STAR_SMALL_181",
+			"Name": "Small Star 181 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_181_ROTATION",
+			"GroupId": "STAR_SMALL_181",
+			"Name": "Small Star 181 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_182_X_SHAKE",
+			"GroupId": "STAR_SMALL_182",
+			"Name": "Small Star 182 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_182_Y_SHAKE",
+			"GroupId": "STAR_SMALL_182",
+			"Name": "Small Star 182 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_182_ROTATION",
+			"GroupId": "STAR_SMALL_182",
+			"Name": "Small Star 182 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_183_X_SHAKE",
+			"GroupId": "STAR_SMALL_183",
+			"Name": "Small Star 183 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_183_Y_SHAKE",
+			"GroupId": "STAR_SMALL_183",
+			"Name": "Small Star 183 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_183_ROTATION",
+			"GroupId": "STAR_SMALL_183",
+			"Name": "Small Star 183 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_184_X_SHAKE",
+			"GroupId": "STAR_SMALL_184",
+			"Name": "Small Star 184 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_184_Y_SHAKE",
+			"GroupId": "STAR_SMALL_184",
+			"Name": "Small Star 184 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_184_ROTATION",
+			"GroupId": "STAR_SMALL_184",
+			"Name": "Small Star 184 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_185_X_SHAKE",
+			"GroupId": "STAR_SMALL_185",
+			"Name": "Small Star 185 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_185_Y_SHAKE",
+			"GroupId": "STAR_SMALL_185",
+			"Name": "Small Star 185 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_185_ROTATION",
+			"GroupId": "STAR_SMALL_185",
+			"Name": "Small Star 185 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_186_X_SHAKE",
+			"GroupId": "STAR_SMALL_186",
+			"Name": "Small Star 186 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_186_Y_SHAKE",
+			"GroupId": "STAR_SMALL_186",
+			"Name": "Small Star 186 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_186_ROTATION",
+			"GroupId": "STAR_SMALL_186",
+			"Name": "Small Star 186 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_187_X_SHAKE",
+			"GroupId": "STAR_SMALL_187",
+			"Name": "Small Star 187 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_187_Y_SHAKE",
+			"GroupId": "STAR_SMALL_187",
+			"Name": "Small Star 187 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_187_ROTATION",
+			"GroupId": "STAR_SMALL_187",
+			"Name": "Small Star 187 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_188_X_SHAKE",
+			"GroupId": "STAR_SMALL_188",
+			"Name": "Small Star 188 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_188_Y_SHAKE",
+			"GroupId": "STAR_SMALL_188",
+			"Name": "Small Star 188 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_188_ROTATION",
+			"GroupId": "STAR_SMALL_188",
+			"Name": "Small Star 188 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_189_X_SHAKE",
+			"GroupId": "STAR_SMALL_189",
+			"Name": "Small Star 189 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_189_Y_SHAKE",
+			"GroupId": "STAR_SMALL_189",
+			"Name": "Small Star 189 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_189_ROTATION",
+			"GroupId": "STAR_SMALL_189",
+			"Name": "Small Star 189 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_190_X_SHAKE",
+			"GroupId": "STAR_SMALL_190",
+			"Name": "Small Star 190 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_190_Y_SHAKE",
+			"GroupId": "STAR_SMALL_190",
+			"Name": "Small Star 190 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_190_ROTATION",
+			"GroupId": "STAR_SMALL_190",
+			"Name": "Small Star 190 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_191_X_SHAKE",
+			"GroupId": "STAR_SMALL_191",
+			"Name": "Small Star 191 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_191_Y_SHAKE",
+			"GroupId": "STAR_SMALL_191",
+			"Name": "Small Star 191 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_191_ROTATION",
+			"GroupId": "STAR_SMALL_191",
+			"Name": "Small Star 191 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_192_X_SHAKE",
+			"GroupId": "STAR_SMALL_192",
+			"Name": "Small Star 192 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_192_Y_SHAKE",
+			"GroupId": "STAR_SMALL_192",
+			"Name": "Small Star 192 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_192_ROTATION",
+			"GroupId": "STAR_SMALL_192",
+			"Name": "Small Star 192 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_193_X_SHAKE",
+			"GroupId": "STAR_SMALL_193",
+			"Name": "Small Star 193 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_193_Y_SHAKE",
+			"GroupId": "STAR_SMALL_193",
+			"Name": "Small Star 193 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_193_ROTATION",
+			"GroupId": "STAR_SMALL_193",
+			"Name": "Small Star 193 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_194_X_SHAKE",
+			"GroupId": "STAR_SMALL_194",
+			"Name": "Small Star 194 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_194_Y_SHAKE",
+			"GroupId": "STAR_SMALL_194",
+			"Name": "Small Star 194 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_194_ROTATION",
+			"GroupId": "STAR_SMALL_194",
+			"Name": "Small Star 194 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_195_X_SHAKE",
+			"GroupId": "STAR_SMALL_195",
+			"Name": "Small Star 195 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_195_Y_SHAKE",
+			"GroupId": "STAR_SMALL_195",
+			"Name": "Small Star 195 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_195_ROTATION",
+			"GroupId": "STAR_SMALL_195",
+			"Name": "Small Star 195 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_196_X_SHAKE",
+			"GroupId": "STAR_SMALL_196",
+			"Name": "Small Star 196 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_196_Y_SHAKE",
+			"GroupId": "STAR_SMALL_196",
+			"Name": "Small Star 196 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_196_ROTATION",
+			"GroupId": "STAR_SMALL_196",
+			"Name": "Small Star 196 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_197_X_SHAKE",
+			"GroupId": "STAR_SMALL_197",
+			"Name": "Small Star 197 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_197_Y_SHAKE",
+			"GroupId": "STAR_SMALL_197",
+			"Name": "Small Star 197 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_197_ROTATION",
+			"GroupId": "STAR_SMALL_197",
+			"Name": "Small Star 197 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_198_X_SHAKE",
+			"GroupId": "STAR_SMALL_198",
+			"Name": "Small Star 198 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_198_Y_SHAKE",
+			"GroupId": "STAR_SMALL_198",
+			"Name": "Small Star 198 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_198_ROTATION",
+			"GroupId": "STAR_SMALL_198",
+			"Name": "Small Star 198 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_199_X_SHAKE",
+			"GroupId": "STAR_SMALL_199",
+			"Name": "Small Star 199 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_199_Y_SHAKE",
+			"GroupId": "STAR_SMALL_199",
+			"Name": "Small Star 199 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_199_ROTATION",
+			"GroupId": "STAR_SMALL_199",
+			"Name": "Small Star 199 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_200_X_SHAKE",
+			"GroupId": "STAR_SMALL_200",
+			"Name": "Small Star 200 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_200_Y_SHAKE",
+			"GroupId": "STAR_SMALL_200",
+			"Name": "Small Star 200 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_200_ROTATION",
+			"GroupId": "STAR_SMALL_200",
+			"Name": "Small Star 200 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_201_X_SHAKE",
+			"GroupId": "STAR_SMALL_201",
+			"Name": "Small Star 201 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_201_Y_SHAKE",
+			"GroupId": "STAR_SMALL_201",
+			"Name": "Small Star 201 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_201_ROTATION",
+			"GroupId": "STAR_SMALL_201",
+			"Name": "Small Star 201 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_202_X_SHAKE",
+			"GroupId": "STAR_SMALL_202",
+			"Name": "Small Star 202 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_202_Y_SHAKE",
+			"GroupId": "STAR_SMALL_202",
+			"Name": "Small Star 202 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_202_ROTATION",
+			"GroupId": "STAR_SMALL_202",
+			"Name": "Small Star 202 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_203_X_SHAKE",
+			"GroupId": "STAR_SMALL_203",
+			"Name": "Small Star 203 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_203_Y_SHAKE",
+			"GroupId": "STAR_SMALL_203",
+			"Name": "Small Star 203 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_203_ROTATION",
+			"GroupId": "STAR_SMALL_203",
+			"Name": "Small Star 203 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_204_X_SHAKE",
+			"GroupId": "STAR_SMALL_204",
+			"Name": "Small Star 204 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_204_Y_SHAKE",
+			"GroupId": "STAR_SMALL_204",
+			"Name": "Small Star 204 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_204_ROTATION",
+			"GroupId": "STAR_SMALL_204",
+			"Name": "Small Star 204 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_205_X_SHAKE",
+			"GroupId": "STAR_SMALL_205",
+			"Name": "Small Star 205 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_205_Y_SHAKE",
+			"GroupId": "STAR_SMALL_205",
+			"Name": "Small Star 205 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_205_ROTATION",
+			"GroupId": "STAR_SMALL_205",
+			"Name": "Small Star 205 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_206_X_SHAKE",
+			"GroupId": "STAR_SMALL_206",
+			"Name": "Small Star 206 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_206_Y_SHAKE",
+			"GroupId": "STAR_SMALL_206",
+			"Name": "Small Star 206 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_206_ROTATION",
+			"GroupId": "STAR_SMALL_206",
+			"Name": "Small Star 206 Rotation"
+		},
+		{
+			"Id": "STAR_SMALL_207_X_SHAKE",
+			"GroupId": "STAR_SMALL_207",
+			"Name": "Small Star 207 X Shake"
+		},
+		{
+			"Id": "STAR_SMALL_207_Y_SHAKE",
+			"GroupId": "STAR_SMALL_207",
+			"Name": "Small Star 207 Y Shake"
+		},
+		{
+			"Id": "STAR_SMALL_207_ROTATION",
+			"GroupId": "STAR_SMALL_207",
+			"Name": "Small Star 207 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_1_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_1",
+			"Name": "Medium Star 1 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_1_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_1",
+			"Name": "Medium Star 1 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_1_ROTATION",
+			"GroupId": "STAR_MEDIUM_1",
+			"Name": "Medium Star 1 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_2_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_2",
+			"Name": "Medium Star 2 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_2_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_2",
+			"Name": "Medium Star 2 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_2_ROTATION",
+			"GroupId": "STAR_MEDIUM_2",
+			"Name": "Medium Star 2 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_3_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_3",
+			"Name": "Medium Star 3 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_3_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_3",
+			"Name": "Medium Star 3 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_3_ROTATION",
+			"GroupId": "STAR_MEDIUM_3",
+			"Name": "Medium Star 3 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_4_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_4",
+			"Name": "Medium Star 4 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_4_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_4",
+			"Name": "Medium Star 4 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_4_ROTATION",
+			"GroupId": "STAR_MEDIUM_4",
+			"Name": "Medium Star 4 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_5_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_5",
+			"Name": "Medium Star 5 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_5_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_5",
+			"Name": "Medium Star 5 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_5_ROTATION",
+			"GroupId": "STAR_MEDIUM_5",
+			"Name": "Medium Star 5 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_6_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_6",
+			"Name": "Medium Star 6 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_6_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_6",
+			"Name": "Medium Star 6 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_6_ROTATION",
+			"GroupId": "STAR_MEDIUM_6",
+			"Name": "Medium Star 6 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_7_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_7",
+			"Name": "Medium Star 7 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_7_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_7",
+			"Name": "Medium Star 7 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_7_ROTATION",
+			"GroupId": "STAR_MEDIUM_7",
+			"Name": "Medium Star 7 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_8_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_8",
+			"Name": "Medium Star 8 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_8_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_8",
+			"Name": "Medium Star 8 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_8_ROTATION",
+			"GroupId": "STAR_MEDIUM_8",
+			"Name": "Medium Star 8 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_9_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_9",
+			"Name": "Medium Star 9 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_9_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_9",
+			"Name": "Medium Star 9 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_9_ROTATION",
+			"GroupId": "STAR_MEDIUM_9",
+			"Name": "Medium Star 9 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_10_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_10",
+			"Name": "Medium Star 10 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_10_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_10",
+			"Name": "Medium Star 10 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_10_ROTATION",
+			"GroupId": "STAR_MEDIUM_10",
+			"Name": "Medium Star 10 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_11_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_11",
+			"Name": "Medium Star 11 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_11_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_11",
+			"Name": "Medium Star 11 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_11_ROTATION",
+			"GroupId": "STAR_MEDIUM_11",
+			"Name": "Medium Star 11 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_12_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_12",
+			"Name": "Medium Star 12 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_12_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_12",
+			"Name": "Medium Star 12 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_12_ROTATION",
+			"GroupId": "STAR_MEDIUM_12",
+			"Name": "Medium Star 12 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_13_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_13",
+			"Name": "Medium Star 13 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_13_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_13",
+			"Name": "Medium Star 13 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_13_ROTATION",
+			"GroupId": "STAR_MEDIUM_13",
+			"Name": "Medium Star 13 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_14_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_14",
+			"Name": "Medium Star 14 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_14_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_14",
+			"Name": "Medium Star 14 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_14_ROTATION",
+			"GroupId": "STAR_MEDIUM_14",
+			"Name": "Medium Star 14 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_15_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_15",
+			"Name": "Medium Star 15 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_15_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_15",
+			"Name": "Medium Star 15 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_15_ROTATION",
+			"GroupId": "STAR_MEDIUM_15",
+			"Name": "Medium Star 15 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_16_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_16",
+			"Name": "Medium Star 16 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_16_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_16",
+			"Name": "Medium Star 16 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_16_ROTATION",
+			"GroupId": "STAR_MEDIUM_16",
+			"Name": "Medium Star 16 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_17_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_17",
+			"Name": "Medium Star 17 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_17_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_17",
+			"Name": "Medium Star 17 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_17_ROTATION",
+			"GroupId": "STAR_MEDIUM_17",
+			"Name": "Medium Star 17 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_18_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_18",
+			"Name": "Medium Star 18 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_18_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_18",
+			"Name": "Medium Star 18 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_18_ROTATION",
+			"GroupId": "STAR_MEDIUM_18",
+			"Name": "Medium Star 18 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_19_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_19",
+			"Name": "Medium Star 19 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_19_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_19",
+			"Name": "Medium Star 19 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_19_ROTATION",
+			"GroupId": "STAR_MEDIUM_19",
+			"Name": "Medium Star 19 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_20_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_20",
+			"Name": "Medium Star 20 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_20_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_20",
+			"Name": "Medium Star 20 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_20_ROTATION",
+			"GroupId": "STAR_MEDIUM_20",
+			"Name": "Medium Star 20 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_21_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_21",
+			"Name": "Medium Star 21 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_21_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_21",
+			"Name": "Medium Star 21 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_21_ROTATION",
+			"GroupId": "STAR_MEDIUM_21",
+			"Name": "Medium Star 21 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_22_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_22",
+			"Name": "Medium Star 22 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_22_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_22",
+			"Name": "Medium Star 22 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_22_ROTATION",
+			"GroupId": "STAR_MEDIUM_22",
+			"Name": "Medium Star 22 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_23_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_23",
+			"Name": "Medium Star 23 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_23_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_23",
+			"Name": "Medium Star 23 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_23_ROTATION",
+			"GroupId": "STAR_MEDIUM_23",
+			"Name": "Medium Star 23 Rotation"
+		},
+		{
+			"Id": "STAR_MEDIUM_24_X_SHAKE",
+			"GroupId": "STAR_MEDIUM_24",
+			"Name": "Medium Star 24 X Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_24_Y_SHAKE",
+			"GroupId": "STAR_MEDIUM_24",
+			"Name": "Medium Star 24 Y Shake"
+		},
+		{
+			"Id": "STAR_MEDIUM_24_ROTATION",
+			"GroupId": "STAR_MEDIUM_24",
+			"Name": "Medium Star 24 Rotation"
+		},
+		{
+			"Id": "STAR_LARGE_1_X_SHAKE",
+			"GroupId": "STAR_LARGE_1",
+			"Name": "Large Star 1 X Shake"
+		},
+		{
+			"Id": "STAR_LARGE_1_Y_SHAKE",
+			"GroupId": "STAR_LARGE_1",
+			"Name": "Large Star 1 Y Shake"
+		},
+		{
+			"Id": "STAR_LARGE_1_ROTATION",
+			"GroupId": "STAR_LARGE_1",
+			"Name": "Large Star 1 Rotation"
+		},
+		{
+			"Id": "STAR_LARGE_2_X_SHAKE",
+			"GroupId": "STAR_LARGE_2",
+			"Name": "Large Star 2 X Shake"
+		},
+		{
+			"Id": "STAR_LARGE_2_Y_SHAKE",
+			"GroupId": "STAR_LARGE_2",
+			"Name": "Large Star 2 Y Shake"
+		},
+		{
+			"Id": "STAR_LARGE_2_ROTATION",
+			"GroupId": "STAR_LARGE_2",
+			"Name": "Large Star 2 Rotation"
+		},
+		{
+			"Id": "STAR_LARGE_3_X_SHAKE",
+			"GroupId": "STAR_LARGE_3",
+			"Name": "Large Star 3 X Shake"
+		},
+		{
+			"Id": "STAR_LARGE_3_Y_SHAKE",
+			"GroupId": "STAR_LARGE_3",
+			"Name": "Large Star 3 Y Shake"
+		},
+		{
+			"Id": "STAR_LARGE_3_ROTATION",
+			"GroupId": "STAR_LARGE_3",
+			"Name": "Large Star 3 Rotation"
+		},
+		{
+			"Id": "STAR_LARGE_4_X_SHAKE",
+			"GroupId": "STAR_LARGE_4",
+			"Name": "Large Star 4 X Shake"
+		},
+		{
+			"Id": "STAR_LARGE_4_Y_SHAKE",
+			"GroupId": "STAR_LARGE_4",
+			"Name": "Large Star 4 Y Shake"
+		},
+		{
+			"Id": "STAR_LARGE_4_ROTATION",
+			"GroupId": "STAR_LARGE_4",
+			"Name": "Large Star 4 Rotation"
+		},
+		{
+			"Id": "STAR_LARGE_5_X_SHAKE",
+			"GroupId": "STAR_LARGE_5",
+			"Name": "Large Star 5 X Shake"
+		},
+		{
+			"Id": "STAR_LARGE_5_Y_SHAKE",
+			"GroupId": "STAR_LARGE_5",
+			"Name": "Large Star 5 Y Shake"
+		},
+		{
+			"Id": "STAR_LARGE_5_ROTATION",
+			"GroupId": "STAR_LARGE_5",
+			"Name": "Large Star 5 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_HEAD_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_HEAD",
+			"Name": "Shooting Star Head X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_HEAD_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_HEAD",
+			"Name": "Shooting Star Head Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_HEAD_ROTATION",
+			"GroupId": "SHOOTING_STAR_HEAD",
+			"Name": "Shooting Star Head Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_1_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_1",
+			"Name": "Shooting Star Tail 1 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_1_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_1",
+			"Name": "Shooting Star Tail 1 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_1_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_1",
+			"Name": "Shooting Star Tail 1 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_2_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_2",
+			"Name": "Shooting Star Tail 2 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_2_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_2",
+			"Name": "Shooting Star Tail 2 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_2_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_2",
+			"Name": "Shooting Star Tail 2 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_3_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_3",
+			"Name": "Shooting Star Tail 3 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_3_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_3",
+			"Name": "Shooting Star Tail 3 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_3_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_3",
+			"Name": "Shooting Star Tail 3 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_4_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_4",
+			"Name": "Shooting Star Tail 4 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_4_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_4",
+			"Name": "Shooting Star Tail 4 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_4_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_4",
+			"Name": "Shooting Star Tail 4 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_5_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_5",
+			"Name": "Shooting Star Tail 5 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_5_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_5",
+			"Name": "Shooting Star Tail 5 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_5_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_5",
+			"Name": "Shooting Star Tail 5 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_6_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_6",
+			"Name": "Shooting Star Tail 6 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_6_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_6",
+			"Name": "Shooting Star Tail 6 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_6_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_6",
+			"Name": "Shooting Star Tail 6 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_7_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_7",
+			"Name": "Shooting Star Tail 7 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_7_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_7",
+			"Name": "Shooting Star Tail 7 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_7_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_7",
+			"Name": "Shooting Star Tail 7 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_8_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_8",
+			"Name": "Shooting Star Tail 8 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_8_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_8",
+			"Name": "Shooting Star Tail 8 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_8_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_8",
+			"Name": "Shooting Star Tail 8 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_9_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_9",
+			"Name": "Shooting Star Tail 9 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_9_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_9",
+			"Name": "Shooting Star Tail 9 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_9_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_9",
+			"Name": "Shooting Star Tail 9 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_10_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_10",
+			"Name": "Shooting Star Tail 10 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_10_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_10",
+			"Name": "Shooting Star Tail 10 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_10_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_10",
+			"Name": "Shooting Star Tail 10 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_11_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_11",
+			"Name": "Shooting Star Tail 11 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_11_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_11",
+			"Name": "Shooting Star Tail 11 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_11_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_11",
+			"Name": "Shooting Star Tail 11 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_12_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_12",
+			"Name": "Shooting Star Tail 12 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_12_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_12",
+			"Name": "Shooting Star Tail 12 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_12_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_12",
+			"Name": "Shooting Star Tail 12 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_13_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_13",
+			"Name": "Shooting Star Tail 13 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_13_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_13",
+			"Name": "Shooting Star Tail 13 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_13_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_13",
+			"Name": "Shooting Star Tail 13 Rotation"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_14_X_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_14",
+			"Name": "Shooting Star Tail 14 X Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_14_Y_SHAKE",
+			"GroupId": "SHOOTING_STAR_TAIL_14",
+			"Name": "Shooting Star Tail 14 Y Shake"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_14_ROTATION",
+			"GroupId": "SHOOTING_STAR_TAIL_14",
+			"Name": "Shooting Star Tail 14 Rotation"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "STAR_SMALL_1",
+			"GroupId": "",
+			"Name": "Small Star 1"
+		},
+		{
+			"Id": "STAR_SMALL_2",
+			"GroupId": "",
+			"Name": "Small Star 2"
+		},
+		{
+			"Id": "STAR_SMALL_3",
+			"GroupId": "",
+			"Name": "Small Star 3"
+		},
+		{
+			"Id": "STAR_SMALL_4",
+			"GroupId": "",
+			"Name": "Small Star 4"
+		},
+		{
+			"Id": "STAR_SMALL_5",
+			"GroupId": "",
+			"Name": "Small Star 5"
+		},
+		{
+			"Id": "STAR_SMALL_6",
+			"GroupId": "",
+			"Name": "Small Star 6"
+		},
+		{
+			"Id": "STAR_SMALL_7",
+			"GroupId": "",
+			"Name": "Small Star 7"
+		},
+		{
+			"Id": "STAR_SMALL_8",
+			"GroupId": "",
+			"Name": "Small Star 8"
+		},
+		{
+			"Id": "STAR_SMALL_9",
+			"GroupId": "",
+			"Name": "Small Star 9"
+		},
+		{
+			"Id": "STAR_SMALL_10",
+			"GroupId": "",
+			"Name": "Small Star 10"
+		},
+		{
+			"Id": "STAR_SMALL_11",
+			"GroupId": "",
+			"Name": "Small Star 11"
+		},
+		{
+			"Id": "STAR_SMALL_12",
+			"GroupId": "",
+			"Name": "Small Star 12"
+		},
+		{
+			"Id": "STAR_SMALL_13",
+			"GroupId": "",
+			"Name": "Small Star 13"
+		},
+		{
+			"Id": "STAR_SMALL_14",
+			"GroupId": "",
+			"Name": "Small Star 14"
+		},
+		{
+			"Id": "STAR_SMALL_15",
+			"GroupId": "",
+			"Name": "Small Star 15"
+		},
+		{
+			"Id": "STAR_SMALL_16",
+			"GroupId": "",
+			"Name": "Small Star 16"
+		},
+		{
+			"Id": "STAR_SMALL_17",
+			"GroupId": "",
+			"Name": "Small Star 17"
+		},
+		{
+			"Id": "STAR_SMALL_18",
+			"GroupId": "",
+			"Name": "Small Star 18"
+		},
+		{
+			"Id": "STAR_SMALL_19",
+			"GroupId": "",
+			"Name": "Small Star 19"
+		},
+		{
+			"Id": "STAR_SMALL_20",
+			"GroupId": "",
+			"Name": "Small Star 20"
+		},
+		{
+			"Id": "STAR_SMALL_21",
+			"GroupId": "",
+			"Name": "Small Star 21"
+		},
+		{
+			"Id": "STAR_SMALL_22",
+			"GroupId": "",
+			"Name": "Small Star 22"
+		},
+		{
+			"Id": "STAR_SMALL_23",
+			"GroupId": "",
+			"Name": "Small Star 23"
+		},
+		{
+			"Id": "STAR_SMALL_24",
+			"GroupId": "",
+			"Name": "Small Star 24"
+		},
+		{
+			"Id": "STAR_SMALL_25",
+			"GroupId": "",
+			"Name": "Small Star 25"
+		},
+		{
+			"Id": "STAR_SMALL_26",
+			"GroupId": "",
+			"Name": "Small Star 26"
+		},
+		{
+			"Id": "STAR_SMALL_27",
+			"GroupId": "",
+			"Name": "Small Star 27"
+		},
+		{
+			"Id": "STAR_SMALL_28",
+			"GroupId": "",
+			"Name": "Small Star 28"
+		},
+		{
+			"Id": "STAR_SMALL_29",
+			"GroupId": "",
+			"Name": "Small Star 29"
+		},
+		{
+			"Id": "STAR_SMALL_30",
+			"GroupId": "",
+			"Name": "Small Star 30"
+		},
+		{
+			"Id": "STAR_SMALL_31",
+			"GroupId": "",
+			"Name": "Small Star 31"
+		},
+		{
+			"Id": "STAR_SMALL_32",
+			"GroupId": "",
+			"Name": "Small Star 32"
+		},
+		{
+			"Id": "STAR_SMALL_33",
+			"GroupId": "",
+			"Name": "Small Star 33"
+		},
+		{
+			"Id": "STAR_SMALL_34",
+			"GroupId": "",
+			"Name": "Small Star 34"
+		},
+		{
+			"Id": "STAR_SMALL_35",
+			"GroupId": "",
+			"Name": "Small Star 35"
+		},
+		{
+			"Id": "STAR_SMALL_36",
+			"GroupId": "",
+			"Name": "Small Star 36"
+		},
+		{
+			"Id": "STAR_SMALL_37",
+			"GroupId": "",
+			"Name": "Small Star 37"
+		},
+		{
+			"Id": "STAR_SMALL_38",
+			"GroupId": "",
+			"Name": "Small Star 38"
+		},
+		{
+			"Id": "STAR_SMALL_39",
+			"GroupId": "",
+			"Name": "Small Star 39"
+		},
+		{
+			"Id": "STAR_SMALL_40",
+			"GroupId": "",
+			"Name": "Small Star 40"
+		},
+		{
+			"Id": "STAR_SMALL_41",
+			"GroupId": "",
+			"Name": "Small Star 41"
+		},
+		{
+			"Id": "STAR_SMALL_42",
+			"GroupId": "",
+			"Name": "Small Star 42"
+		},
+		{
+			"Id": "STAR_SMALL_43",
+			"GroupId": "",
+			"Name": "Small Star 43"
+		},
+		{
+			"Id": "STAR_SMALL_44",
+			"GroupId": "",
+			"Name": "Small Star 44"
+		},
+		{
+			"Id": "STAR_SMALL_45",
+			"GroupId": "",
+			"Name": "Small Star 45"
+		},
+		{
+			"Id": "STAR_SMALL_46",
+			"GroupId": "",
+			"Name": "Small Star 46"
+		},
+		{
+			"Id": "STAR_SMALL_47",
+			"GroupId": "",
+			"Name": "Small Star 47"
+		},
+		{
+			"Id": "STAR_SMALL_48",
+			"GroupId": "",
+			"Name": "Small Star 48"
+		},
+		{
+			"Id": "STAR_SMALL_49",
+			"GroupId": "",
+			"Name": "Small Star 49"
+		},
+		{
+			"Id": "STAR_SMALL_50",
+			"GroupId": "",
+			"Name": "Small Star 50"
+		},
+		{
+			"Id": "STAR_SMALL_51",
+			"GroupId": "",
+			"Name": "Small Star 51"
+		},
+		{
+			"Id": "STAR_SMALL_52",
+			"GroupId": "",
+			"Name": "Small Star 52"
+		},
+		{
+			"Id": "STAR_SMALL_53",
+			"GroupId": "",
+			"Name": "Small Star 53"
+		},
+		{
+			"Id": "STAR_SMALL_54",
+			"GroupId": "",
+			"Name": "Small Star 54"
+		},
+		{
+			"Id": "STAR_SMALL_55",
+			"GroupId": "",
+			"Name": "Small Star 55"
+		},
+		{
+			"Id": "STAR_SMALL_56",
+			"GroupId": "",
+			"Name": "Small Star 56"
+		},
+		{
+			"Id": "STAR_SMALL_57",
+			"GroupId": "",
+			"Name": "Small Star 57"
+		},
+		{
+			"Id": "STAR_SMALL_58",
+			"GroupId": "",
+			"Name": "Small Star 58"
+		},
+		{
+			"Id": "STAR_SMALL_59",
+			"GroupId": "",
+			"Name": "Small Star 59"
+		},
+		{
+			"Id": "STAR_SMALL_60",
+			"GroupId": "",
+			"Name": "Small Star 60"
+		},
+		{
+			"Id": "STAR_SMALL_61",
+			"GroupId": "",
+			"Name": "Small Star 61"
+		},
+		{
+			"Id": "STAR_SMALL_62",
+			"GroupId": "",
+			"Name": "Small Star 62"
+		},
+		{
+			"Id": "STAR_SMALL_63",
+			"GroupId": "",
+			"Name": "Small Star 63"
+		},
+		{
+			"Id": "STAR_SMALL_64",
+			"GroupId": "",
+			"Name": "Small Star 64"
+		},
+		{
+			"Id": "STAR_SMALL_65",
+			"GroupId": "",
+			"Name": "Small Star 65"
+		},
+		{
+			"Id": "STAR_SMALL_66",
+			"GroupId": "",
+			"Name": "Small Star 66"
+		},
+		{
+			"Id": "STAR_SMALL_67",
+			"GroupId": "",
+			"Name": "Small Star 67"
+		},
+		{
+			"Id": "STAR_SMALL_68",
+			"GroupId": "",
+			"Name": "Small Star 68"
+		},
+		{
+			"Id": "STAR_SMALL_69",
+			"GroupId": "",
+			"Name": "Small Star 69"
+		},
+		{
+			"Id": "STAR_SMALL_70",
+			"GroupId": "",
+			"Name": "Small Star 70"
+		},
+		{
+			"Id": "STAR_SMALL_71",
+			"GroupId": "",
+			"Name": "Small Star 71"
+		},
+		{
+			"Id": "STAR_SMALL_72",
+			"GroupId": "",
+			"Name": "Small Star 72"
+		},
+		{
+			"Id": "STAR_SMALL_73",
+			"GroupId": "",
+			"Name": "Small Star 73"
+		},
+		{
+			"Id": "STAR_SMALL_74",
+			"GroupId": "",
+			"Name": "Small Star 74"
+		},
+		{
+			"Id": "STAR_SMALL_75",
+			"GroupId": "",
+			"Name": "Small Star 75"
+		},
+		{
+			"Id": "STAR_SMALL_76",
+			"GroupId": "",
+			"Name": "Small Star 76"
+		},
+		{
+			"Id": "STAR_SMALL_77",
+			"GroupId": "",
+			"Name": "Small Star 77"
+		},
+		{
+			"Id": "STAR_SMALL_78",
+			"GroupId": "",
+			"Name": "Small Star 78"
+		},
+		{
+			"Id": "STAR_SMALL_79",
+			"GroupId": "",
+			"Name": "Small Star 79"
+		},
+		{
+			"Id": "STAR_SMALL_80",
+			"GroupId": "",
+			"Name": "Small Star 80"
+		},
+		{
+			"Id": "STAR_SMALL_81",
+			"GroupId": "",
+			"Name": "Small Star 81"
+		},
+		{
+			"Id": "STAR_SMALL_82",
+			"GroupId": "",
+			"Name": "Small Star 82"
+		},
+		{
+			"Id": "STAR_SMALL_83",
+			"GroupId": "",
+			"Name": "Small Star 83"
+		},
+		{
+			"Id": "STAR_SMALL_84",
+			"GroupId": "",
+			"Name": "Small Star 84"
+		},
+		{
+			"Id": "STAR_SMALL_85",
+			"GroupId": "",
+			"Name": "Small Star 85"
+		},
+		{
+			"Id": "STAR_SMALL_86",
+			"GroupId": "",
+			"Name": "Small Star 86"
+		},
+		{
+			"Id": "STAR_SMALL_87",
+			"GroupId": "",
+			"Name": "Small Star 87"
+		},
+		{
+			"Id": "STAR_SMALL_88",
+			"GroupId": "",
+			"Name": "Small Star 88"
+		},
+		{
+			"Id": "STAR_SMALL_89",
+			"GroupId": "",
+			"Name": "Small Star 89"
+		},
+		{
+			"Id": "STAR_SMALL_90",
+			"GroupId": "",
+			"Name": "Small Star 90"
+		},
+		{
+			"Id": "STAR_SMALL_91",
+			"GroupId": "",
+			"Name": "Small Star 91"
+		},
+		{
+			"Id": "STAR_SMALL_92",
+			"GroupId": "",
+			"Name": "Small Star 92"
+		},
+		{
+			"Id": "STAR_SMALL_93",
+			"GroupId": "",
+			"Name": "Small Star 93"
+		},
+		{
+			"Id": "STAR_SMALL_94",
+			"GroupId": "",
+			"Name": "Small Star 94"
+		},
+		{
+			"Id": "STAR_SMALL_95",
+			"GroupId": "",
+			"Name": "Small Star 95"
+		},
+		{
+			"Id": "STAR_SMALL_96",
+			"GroupId": "",
+			"Name": "Small Star 96"
+		},
+		{
+			"Id": "STAR_SMALL_97",
+			"GroupId": "",
+			"Name": "Small Star 97"
+		},
+		{
+			"Id": "STAR_SMALL_98",
+			"GroupId": "",
+			"Name": "Small Star 98"
+		},
+		{
+			"Id": "STAR_SMALL_99",
+			"GroupId": "",
+			"Name": "Small Star 99"
+		},
+		{
+			"Id": "STAR_SMALL_100",
+			"GroupId": "",
+			"Name": "Small Star 100"
+		},
+		{
+			"Id": "STAR_SMALL_101",
+			"GroupId": "",
+			"Name": "Small Star 101"
+		},
+		{
+			"Id": "STAR_SMALL_102",
+			"GroupId": "",
+			"Name": "Small Star 102"
+		},
+		{
+			"Id": "STAR_SMALL_103",
+			"GroupId": "",
+			"Name": "Small Star 103"
+		},
+		{
+			"Id": "STAR_SMALL_104",
+			"GroupId": "",
+			"Name": "Small Star 104"
+		},
+		{
+			"Id": "STAR_SMALL_105",
+			"GroupId": "",
+			"Name": "Small Star 105"
+		},
+		{
+			"Id": "STAR_SMALL_106",
+			"GroupId": "",
+			"Name": "Small Star 106"
+		},
+		{
+			"Id": "STAR_SMALL_107",
+			"GroupId": "",
+			"Name": "Small Star 107"
+		},
+		{
+			"Id": "STAR_SMALL_108",
+			"GroupId": "",
+			"Name": "Small Star 108"
+		},
+		{
+			"Id": "STAR_SMALL_109",
+			"GroupId": "",
+			"Name": "Small Star 109"
+		},
+		{
+			"Id": "STAR_SMALL_110",
+			"GroupId": "",
+			"Name": "Small Star 110"
+		},
+		{
+			"Id": "STAR_SMALL_111",
+			"GroupId": "",
+			"Name": "Small Star 111"
+		},
+		{
+			"Id": "STAR_SMALL_112",
+			"GroupId": "",
+			"Name": "Small Star 112"
+		},
+		{
+			"Id": "STAR_SMALL_113",
+			"GroupId": "",
+			"Name": "Small Star 113"
+		},
+		{
+			"Id": "STAR_SMALL_114",
+			"GroupId": "",
+			"Name": "Small Star 114"
+		},
+		{
+			"Id": "STAR_SMALL_115",
+			"GroupId": "",
+			"Name": "Small Star 115"
+		},
+		{
+			"Id": "STAR_SMALL_116",
+			"GroupId": "",
+			"Name": "Small Star 116"
+		},
+		{
+			"Id": "STAR_SMALL_117",
+			"GroupId": "",
+			"Name": "Small Star 117"
+		},
+		{
+			"Id": "STAR_SMALL_118",
+			"GroupId": "",
+			"Name": "Small Star 118"
+		},
+		{
+			"Id": "STAR_SMALL_119",
+			"GroupId": "",
+			"Name": "Small Star 119"
+		},
+		{
+			"Id": "STAR_SMALL_120",
+			"GroupId": "",
+			"Name": "Small Star 120"
+		},
+		{
+			"Id": "STAR_SMALL_121",
+			"GroupId": "",
+			"Name": "Small Star 121"
+		},
+		{
+			"Id": "STAR_SMALL_122",
+			"GroupId": "",
+			"Name": "Small Star 122"
+		},
+		{
+			"Id": "STAR_SMALL_123",
+			"GroupId": "",
+			"Name": "Small Star 123"
+		},
+		{
+			"Id": "STAR_SMALL_124",
+			"GroupId": "",
+			"Name": "Small Star 124"
+		},
+		{
+			"Id": "STAR_SMALL_125",
+			"GroupId": "",
+			"Name": "Small Star 125"
+		},
+		{
+			"Id": "STAR_SMALL_126",
+			"GroupId": "",
+			"Name": "Small Star 126"
+		},
+		{
+			"Id": "STAR_SMALL_127",
+			"GroupId": "",
+			"Name": "Small Star 127"
+		},
+		{
+			"Id": "STAR_SMALL_128",
+			"GroupId": "",
+			"Name": "Small Star 128"
+		},
+		{
+			"Id": "STAR_SMALL_129",
+			"GroupId": "",
+			"Name": "Small Star 129"
+		},
+		{
+			"Id": "STAR_SMALL_130",
+			"GroupId": "",
+			"Name": "Small Star 130"
+		},
+		{
+			"Id": "STAR_SMALL_131",
+			"GroupId": "",
+			"Name": "Small Star 131"
+		},
+		{
+			"Id": "STAR_SMALL_132",
+			"GroupId": "",
+			"Name": "Small Star 132"
+		},
+		{
+			"Id": "STAR_SMALL_133",
+			"GroupId": "",
+			"Name": "Small Star 133"
+		},
+		{
+			"Id": "STAR_SMALL_134",
+			"GroupId": "",
+			"Name": "Small Star 134"
+		},
+		{
+			"Id": "STAR_SMALL_135",
+			"GroupId": "",
+			"Name": "Small Star 135"
+		},
+		{
+			"Id": "STAR_SMALL_136",
+			"GroupId": "",
+			"Name": "Small Star 136"
+		},
+		{
+			"Id": "STAR_SMALL_137",
+			"GroupId": "",
+			"Name": "Small Star 137"
+		},
+		{
+			"Id": "STAR_SMALL_138",
+			"GroupId": "",
+			"Name": "Small Star 138"
+		},
+		{
+			"Id": "STAR_SMALL_139",
+			"GroupId": "",
+			"Name": "Small Star 139"
+		},
+		{
+			"Id": "STAR_SMALL_140",
+			"GroupId": "",
+			"Name": "Small Star 140"
+		},
+		{
+			"Id": "STAR_SMALL_141",
+			"GroupId": "",
+			"Name": "Small Star 141"
+		},
+		{
+			"Id": "STAR_SMALL_142",
+			"GroupId": "",
+			"Name": "Small Star 142"
+		},
+		{
+			"Id": "STAR_SMALL_143",
+			"GroupId": "",
+			"Name": "Small Star 143"
+		},
+		{
+			"Id": "STAR_SMALL_144",
+			"GroupId": "",
+			"Name": "Small Star 144"
+		},
+		{
+			"Id": "STAR_SMALL_145",
+			"GroupId": "",
+			"Name": "Small Star 145"
+		},
+		{
+			"Id": "STAR_SMALL_146",
+			"GroupId": "",
+			"Name": "Small Star 146"
+		},
+		{
+			"Id": "STAR_SMALL_147",
+			"GroupId": "",
+			"Name": "Small Star 147"
+		},
+		{
+			"Id": "STAR_SMALL_148",
+			"GroupId": "",
+			"Name": "Small Star 148"
+		},
+		{
+			"Id": "STAR_SMALL_149",
+			"GroupId": "",
+			"Name": "Small Star 149"
+		},
+		{
+			"Id": "STAR_SMALL_150",
+			"GroupId": "",
+			"Name": "Small Star 150"
+		},
+		{
+			"Id": "STAR_SMALL_151",
+			"GroupId": "",
+			"Name": "Small Star 151"
+		},
+		{
+			"Id": "STAR_SMALL_152",
+			"GroupId": "",
+			"Name": "Small Star 152"
+		},
+		{
+			"Id": "STAR_SMALL_153",
+			"GroupId": "",
+			"Name": "Small Star 153"
+		},
+		{
+			"Id": "STAR_SMALL_154",
+			"GroupId": "",
+			"Name": "Small Star 154"
+		},
+		{
+			"Id": "STAR_SMALL_155",
+			"GroupId": "",
+			"Name": "Small Star 155"
+		},
+		{
+			"Id": "STAR_SMALL_156",
+			"GroupId": "",
+			"Name": "Small Star 156"
+		},
+		{
+			"Id": "STAR_SMALL_157",
+			"GroupId": "",
+			"Name": "Small Star 157"
+		},
+		{
+			"Id": "STAR_SMALL_158",
+			"GroupId": "",
+			"Name": "Small Star 158"
+		},
+		{
+			"Id": "STAR_SMALL_159",
+			"GroupId": "",
+			"Name": "Small Star 159"
+		},
+		{
+			"Id": "STAR_SMALL_160",
+			"GroupId": "",
+			"Name": "Small Star 160"
+		},
+		{
+			"Id": "STAR_SMALL_161",
+			"GroupId": "",
+			"Name": "Small Star 161"
+		},
+		{
+			"Id": "STAR_SMALL_162",
+			"GroupId": "",
+			"Name": "Small Star 162"
+		},
+		{
+			"Id": "STAR_SMALL_163",
+			"GroupId": "",
+			"Name": "Small Star 163"
+		},
+		{
+			"Id": "STAR_SMALL_164",
+			"GroupId": "",
+			"Name": "Small Star 164"
+		},
+		{
+			"Id": "STAR_SMALL_165",
+			"GroupId": "",
+			"Name": "Small Star 165"
+		},
+		{
+			"Id": "STAR_SMALL_166",
+			"GroupId": "",
+			"Name": "Small Star 166"
+		},
+		{
+			"Id": "STAR_SMALL_167",
+			"GroupId": "",
+			"Name": "Small Star 167"
+		},
+		{
+			"Id": "STAR_SMALL_168",
+			"GroupId": "",
+			"Name": "Small Star 168"
+		},
+		{
+			"Id": "STAR_SMALL_169",
+			"GroupId": "",
+			"Name": "Small Star 169"
+		},
+		{
+			"Id": "STAR_SMALL_170",
+			"GroupId": "",
+			"Name": "Small Star 170"
+		},
+		{
+			"Id": "STAR_SMALL_171",
+			"GroupId": "",
+			"Name": "Small Star 171"
+		},
+		{
+			"Id": "STAR_SMALL_172",
+			"GroupId": "",
+			"Name": "Small Star 172"
+		},
+		{
+			"Id": "STAR_SMALL_173",
+			"GroupId": "",
+			"Name": "Small Star 173"
+		},
+		{
+			"Id": "STAR_SMALL_174",
+			"GroupId": "",
+			"Name": "Small Star 174"
+		},
+		{
+			"Id": "STAR_SMALL_175",
+			"GroupId": "",
+			"Name": "Small Star 175"
+		},
+		{
+			"Id": "STAR_SMALL_176",
+			"GroupId": "",
+			"Name": "Small Star 176"
+		},
+		{
+			"Id": "STAR_SMALL_177",
+			"GroupId": "",
+			"Name": "Small Star 177"
+		},
+		{
+			"Id": "STAR_SMALL_178",
+			"GroupId": "",
+			"Name": "Small Star 178"
+		},
+		{
+			"Id": "STAR_SMALL_179",
+			"GroupId": "",
+			"Name": "Small Star 179"
+		},
+		{
+			"Id": "STAR_SMALL_180",
+			"GroupId": "",
+			"Name": "Small Star 180"
+		},
+		{
+			"Id": "STAR_SMALL_181",
+			"GroupId": "",
+			"Name": "Small Star 181"
+		},
+		{
+			"Id": "STAR_SMALL_182",
+			"GroupId": "",
+			"Name": "Small Star 182"
+		},
+		{
+			"Id": "STAR_SMALL_183",
+			"GroupId": "",
+			"Name": "Small Star 183"
+		},
+		{
+			"Id": "STAR_SMALL_184",
+			"GroupId": "",
+			"Name": "Small Star 184"
+		},
+		{
+			"Id": "STAR_SMALL_185",
+			"GroupId": "",
+			"Name": "Small Star 185"
+		},
+		{
+			"Id": "STAR_SMALL_186",
+			"GroupId": "",
+			"Name": "Small Star 186"
+		},
+		{
+			"Id": "STAR_SMALL_187",
+			"GroupId": "",
+			"Name": "Small Star 187"
+		},
+		{
+			"Id": "STAR_SMALL_188",
+			"GroupId": "",
+			"Name": "Small Star 188"
+		},
+		{
+			"Id": "STAR_SMALL_189",
+			"GroupId": "",
+			"Name": "Small Star 189"
+		},
+		{
+			"Id": "STAR_SMALL_190",
+			"GroupId": "",
+			"Name": "Small Star 190"
+		},
+		{
+			"Id": "STAR_SMALL_191",
+			"GroupId": "",
+			"Name": "Small Star 191"
+		},
+		{
+			"Id": "STAR_SMALL_192",
+			"GroupId": "",
+			"Name": "Small Star 192"
+		},
+		{
+			"Id": "STAR_SMALL_193",
+			"GroupId": "",
+			"Name": "Small Star 193"
+		},
+		{
+			"Id": "STAR_SMALL_194",
+			"GroupId": "",
+			"Name": "Small Star 194"
+		},
+		{
+			"Id": "STAR_SMALL_195",
+			"GroupId": "",
+			"Name": "Small Star 195"
+		},
+		{
+			"Id": "STAR_SMALL_196",
+			"GroupId": "",
+			"Name": "Small Star 196"
+		},
+		{
+			"Id": "STAR_SMALL_197",
+			"GroupId": "",
+			"Name": "Small Star 197"
+		},
+		{
+			"Id": "STAR_SMALL_198",
+			"GroupId": "",
+			"Name": "Small Star 198"
+		},
+		{
+			"Id": "STAR_SMALL_199",
+			"GroupId": "",
+			"Name": "Small Star 199"
+		},
+		{
+			"Id": "STAR_SMALL_200",
+			"GroupId": "",
+			"Name": "Small Star 200"
+		},
+		{
+			"Id": "STAR_SMALL_201",
+			"GroupId": "",
+			"Name": "Small Star 201"
+		},
+		{
+			"Id": "STAR_SMALL_202",
+			"GroupId": "",
+			"Name": "Small Star 202"
+		},
+		{
+			"Id": "STAR_SMALL_203",
+			"GroupId": "",
+			"Name": "Small Star 203"
+		},
+		{
+			"Id": "STAR_SMALL_204",
+			"GroupId": "",
+			"Name": "Small Star 204"
+		},
+		{
+			"Id": "STAR_SMALL_205",
+			"GroupId": "",
+			"Name": "Small Star 205"
+		},
+		{
+			"Id": "STAR_SMALL_206",
+			"GroupId": "",
+			"Name": "Small Star 206"
+		},
+		{
+			"Id": "STAR_SMALL_207",
+			"GroupId": "",
+			"Name": "Small Star 207"
+		},
+		{
+			"Id": "STAR_MEDIUM_1",
+			"GroupId": "",
+			"Name": "Medium Star 1"
+		},
+		{
+			"Id": "STAR_MEDIUM_2",
+			"GroupId": "",
+			"Name": "Medium Star 2"
+		},
+		{
+			"Id": "STAR_MEDIUM_3",
+			"GroupId": "",
+			"Name": "Medium Star 3"
+		},
+		{
+			"Id": "STAR_MEDIUM_4",
+			"GroupId": "",
+			"Name": "Medium Star 4"
+		},
+		{
+			"Id": "STAR_MEDIUM_5",
+			"GroupId": "",
+			"Name": "Medium Star 5"
+		},
+		{
+			"Id": "STAR_MEDIUM_6",
+			"GroupId": "",
+			"Name": "Medium Star 6"
+		},
+		{
+			"Id": "STAR_MEDIUM_7",
+			"GroupId": "",
+			"Name": "Medium Star 7"
+		},
+		{
+			"Id": "STAR_MEDIUM_8",
+			"GroupId": "",
+			"Name": "Medium Star 8"
+		},
+		{
+			"Id": "STAR_MEDIUM_9",
+			"GroupId": "",
+			"Name": "Medium Star 9"
+		},
+		{
+			"Id": "STAR_MEDIUM_10",
+			"GroupId": "",
+			"Name": "Medium Star 10"
+		},
+		{
+			"Id": "STAR_MEDIUM_11",
+			"GroupId": "",
+			"Name": "Medium Star 11"
+		},
+		{
+			"Id": "STAR_MEDIUM_12",
+			"GroupId": "",
+			"Name": "Medium Star 12"
+		},
+		{
+			"Id": "STAR_MEDIUM_13",
+			"GroupId": "",
+			"Name": "Medium Star 13"
+		},
+		{
+			"Id": "STAR_MEDIUM_14",
+			"GroupId": "",
+			"Name": "Medium Star 14"
+		},
+		{
+			"Id": "STAR_MEDIUM_15",
+			"GroupId": "",
+			"Name": "Medium Star 15"
+		},
+		{
+			"Id": "STAR_MEDIUM_16",
+			"GroupId": "",
+			"Name": "Medium Star 16"
+		},
+		{
+			"Id": "STAR_MEDIUM_17",
+			"GroupId": "",
+			"Name": "Medium Star 17"
+		},
+		{
+			"Id": "STAR_MEDIUM_18",
+			"GroupId": "",
+			"Name": "Medium Star 18"
+		},
+		{
+			"Id": "STAR_MEDIUM_19",
+			"GroupId": "",
+			"Name": "Medium Star 19"
+		},
+		{
+			"Id": "STAR_MEDIUM_20",
+			"GroupId": "",
+			"Name": "Medium Star 20"
+		},
+		{
+			"Id": "STAR_MEDIUM_21",
+			"GroupId": "",
+			"Name": "Medium Star 21"
+		},
+		{
+			"Id": "STAR_MEDIUM_22",
+			"GroupId": "",
+			"Name": "Medium Star 22"
+		},
+		{
+			"Id": "STAR_MEDIUM_23",
+			"GroupId": "",
+			"Name": "Medium Star 23"
+		},
+		{
+			"Id": "STAR_MEDIUM_24",
+			"GroupId": "",
+			"Name": "Medium Star 24"
+		},
+		{
+			"Id": "STAR_LARGE_1",
+			"GroupId": "",
+			"Name": "Large Star 1"
+		},
+		{
+			"Id": "STAR_LARGE_2",
+			"GroupId": "",
+			"Name": "Large Star 2"
+		},
+		{
+			"Id": "STAR_LARGE_3",
+			"GroupId": "",
+			"Name": "Large Star 3"
+		},
+		{
+			"Id": "STAR_LARGE_4",
+			"GroupId": "",
+			"Name": "Large Star 4"
+		},
+		{
+			"Id": "STAR_LARGE_5",
+			"GroupId": "",
+			"Name": "Large Star 5"
+		},
+		{
+			"Id": "SHOOTING_STAR_HEAD",
+			"GroupId": "",
+			"Name": "Shooting Star Head"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_1",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 1"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_2",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 2"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_3",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 3"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_4",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 4"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_5",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 5"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_6",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 6"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_7",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 7"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_8",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 8"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_9",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 9"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_10",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 10"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_11",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 11"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_12",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 12"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_13",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 13"
+		},
+		{
+			"Id": "SHOOTING_STAR_TAIL_14",
+			"GroupId": "",
+			"Name": "Shooting Star Tail 14"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "STARS",
+			"Name": "Stars"
+		},
+		{
+			"Id": "GUIDE_IMAGES",
+			"Name": "Guide Images"
+		},
+		{
+			"Id": "BACKGROUND",
+			"Name": "Background"
+		},
+		{
+			"Id": "STARS_SMALL",
+			"Name": "Stars Small"
+		},
+		{
+			"Id": "STARS_MEDIUM",
+			"Name": "Stars Medium"
+		},
+		{
+			"Id": "STARS_LARGE",
+			"Name": "Stars Large"
+		},
+		{
+			"Id": "SHOOTING_STAR",
+			"Name": "Shooting Star"
+		}
+	]
+}
